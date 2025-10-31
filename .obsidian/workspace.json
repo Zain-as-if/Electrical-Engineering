@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
+                "file": "Y1S1/Electrical Principles/Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Charged & Electrostatic Forces"
+              "title": "Contents"
             }
           }
         ]
@@ -177,16 +177,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "70c4a06e694e310d",
+  "active": "c3e60bf613d3c97b",
   "lastOpenFiles": [
+    "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
+    "Y1S1/Electrical Principles/Contents.md",
+    "README.md",
+    "Excalidraw/Energy.md",
+    "Excalidraw/PointCharge2.md",
+    "Excalidraw/PointCharge1.md",
+    "Excalidraw",
     "Images",
     "Images/Pasted image 20251031180818.png",
     "Y1S1/Electrical Principles/Week1",
-    "README.md",
-    "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
     "Y1S1/Electrical Principles",
     "Y1S1/Electrical Design",
     "Y1S1/Mathematics",
