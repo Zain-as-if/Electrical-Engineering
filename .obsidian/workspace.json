@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y1S1/Electrical Principles/Test note.md",
+                "file": "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test note"
+              "title": "1. Charged & Electrostatic Forces"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "49e35babd84a5ec5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Y1S1/Electrical Principles/Test note.md",
+                "file": "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test note"
+              "title": "Backlinks for 1. Charged & Electrostatic Forces"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Y1S1/Electrical Principles/Test note.md",
+                "file": "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test note"
+              "title": "Outgoing links from 1. Charged & Electrostatic Forces"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y1S1/Electrical Principles/Test note.md",
+                "file": "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test note"
+              "title": "Outline of 1. Charged & Electrostatic Forces"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,9 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3e60bf613d3c97b",
+  "active": "70c4a06e694e310d",
   "lastOpenFiles": [
-    "Y1S1/Electrical Principles/Test note.md",
+    "Images",
+    "Images/Pasted image 20251031180818.png",
+    "Y1S1/Electrical Principles/Week1",
+    "README.md",
+    "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
     "Y1S1/Electrical Principles",
     "Y1S1/Electrical Design",
     "Y1S1/Mathematics",
