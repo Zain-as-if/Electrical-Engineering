@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y1S1/Electrical Principles/Contents.md",
+                "file": "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contents"
+              "title": "1. Charged & Electrostatic Forces"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "c3e60bf613d3c97b",
   "lastOpenFiles": [
-    "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
     "Y1S1/Electrical Principles/Contents.md",
+    "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
     "README.md",
     "Excalidraw/Energy.md",
     "Excalidraw/PointCharge2.md",
