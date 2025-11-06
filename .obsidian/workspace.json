@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bb41d4da49b8c06b",
+        "id": "e8ae091d7cf14c8e",
         "type": "tabs",
         "children": [
           {
-            "id": "c3e60bf613d3c97b",
+            "id": "2693d96a3e1c435d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1. Charged & Electrostatic Forces"
-            }
-          },
-          {
-            "id": "cd9efa1d3055fe66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,12 +182,12 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "cd9efa1d3055fe66",
+  "active": "2693d96a3e1c435d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Y1S1/Mathematics/Week1/Quadratics.md",
     "Y1S1/Mathematics/Week1/Basic Algebra.md",
     "Y1S1/Mathematics/Week1/Functions.md",
-    "conflict-files-obsidian-git.md",
     "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
     "Y1S1/Mathematics/Week2/Polynomials.md",
     "Y1S1/Mathematics/Week2",
