@@ -1,3 +1,4 @@
 Week 1: 
-- Charged & Electrostatic Forces
-- Current, E-Field, Electric Flux & Capacitors
+- [[1. Charged & Electrostatic Forces]]
+- [[2. Current, E-Field, etc]]
+- 
