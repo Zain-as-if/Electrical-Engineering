@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y1S1/Electrical Principles/Week1/2. Current, E-Field, etc.md",
+                "file": "Y1S1/Electrical Design/Logbook/24.11.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Current, E-Field, etc"
+              "title": "24.11.25"
             }
           }
         ]
@@ -196,10 +196,13 @@
   },
   "active": "6633545b237d13a6",
   "lastOpenFiles": [
+    "Y1S1/Electrical Principles/Week1/2. Current, E-Field, etc.md",
+    "Y1S1/Electrical Design/Logbook/24.11.25.md",
+    "Y1S1/Electrical Design",
+    "Y1S1/Electrical Design/Logbook",
     "Images/Pasted image 20251124135301.png",
     "Y1S1/Electrical Principles/Contents.md",
     "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
-    "Y1S1/Electrical Principles/Week1/2. Current, E-Field, etc.md",
     "Images/Pasted image 20251124130907.png",
     "Images/Pasted image 20251105161554.png",
     "Images/Pasted image 20251105161541.png",
@@ -223,8 +226,6 @@
     "Images",
     "Y1S1/Electrical Principles/Week1",
     "Y1S1/Electrical Principles",
-    "Y1S1/Electrical Design",
-    "Y1S1/Mathematics",
-    "Y1S2"
+    "Y1S1/Electrical Design"
   ]
 }
