@@ -11,14 +11,14 @@
             "id": "2693d96a3e1c435d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Y1S1/Mathematics/Week2/Polynomials.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Polynomials"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "2693d96a3e1c435d",
   "lastOpenFiles": [
+    "Y1S1/Mathematics/Contents.md",
     "conflict-files-obsidian-git.md",
     "Y1S1/Mathematics/Week1/Quadratics.md",
     "Y1S1/Mathematics/Week1/Basic Algebra.md",
@@ -192,7 +193,6 @@
     "Y1S1/Mathematics/Week2/Polynomials.md",
     "Y1S1/Mathematics/Week2",
     "Y1S1/Mathematics/Week1",
-    "Y1S1/Mathematics/Contents.md",
     "Images/Pasted image 20251105161554.png",
     "Images/Pasted image 20251105161541.png",
     "Excalidraw/LongDivision.md",
