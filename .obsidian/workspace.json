@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Polynomials"
             }
+          },
+          {
+            "id": "a675ee28c49a10ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,15 +197,17 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "2693d96a3e1c435d",
+  "active": "a675ee28c49a10ab",
   "lastOpenFiles": [
-    "Y1S1/Mathematics/Contents.md",
     "conflict-files-obsidian-git.md",
+    "Y1S1/Mathematics/Week2/Polynomials.md",
+    "Y1S1/Electrical Design/Logbook/24.11.25.md",
+    "Y1S1/Electrical Design/Logbook",
+    "Y1S1/Mathematics/Contents.md",
     "Y1S1/Mathematics/Week1/Quadratics.md",
     "Y1S1/Mathematics/Week1/Basic Algebra.md",
     "Y1S1/Mathematics/Week1/Functions.md",
     "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
-    "Y1S1/Mathematics/Week2/Polynomials.md",
     "Y1S1/Mathematics/Week2",
     "Y1S1/Mathematics/Week1",
     "Images/Pasted image 20251105161554.png",
@@ -209,7 +226,6 @@
     "Y1S1/Electrical Principles",
     "Y1S1/Electrical Design",
     "Y1S1/Mathematics",
-    "Y1S2",
-    "Y1S1"
+    "Y1S2"
   ]
 }
