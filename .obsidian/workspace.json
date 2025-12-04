@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3603bc0b2298fc18",
+        "id": "dac0efc1a1d1c62d",
         "type": "tabs",
         "children": [
           {
-            "id": "6633545b237d13a6",
+            "id": "843b8b3fdb33c4e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y1S1/Electrical Design/Logbook/01.12.25.md",
+                "file": "Y1S1/Mathematics/Week2/Partial Fractions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.12.25"
+              "title": "Partial Fractions"
             }
           }
         ]
@@ -194,17 +194,28 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "6633545b237d13a6",
+  "active": "843b8b3fdb33c4e6",
   "lastOpenFiles": [
-    "Y1S1/Electrical Design/Logbook/24.11.25.md",
-    "Y1S1/Electrical Design/Logbook/26.11.25.md",
-    "Y1S1/Electrical Design/Logbook/01.12.25.md",
+    "Y1S1/Mathematics/Week2/Polynomials.md",
+    "Y1S1/Electrical Principles/Filters/Passive Filter.md",
+    "Y1S1/Mathematics/Week2/Partial Fractions.md",
+    "Y1S1/Electrical Principles/Filters",
+    "Excalidraw/LongDivision.md",
+    "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
     "Y1S1/Electrical Principles/Week1/2. Current, E-Field, etc.md",
+    "Y1S1/Electrical Design/Logbook/01.12.25.md",
+    "Y1S1/Electrical Design/Logbook/26.11.25.md",
+    "Y1S1/Electrical Principles/Contents.md",
+    "Y1S1/Mathematics/Week1/Basic Algebra.md",
+    "Y1S1/Mathematics/Week1/Functions.md",
+    "Y1S1/Mathematics/Week1/Quadratics.md",
+    "Excalidraw/CompletingSquare.md",
+    "Images/Pasted image 20251204120009.png",
+    "Images/Pasted image 20251204120016.png",
+    "Y1S1/Electrical Design/Logbook/24.11.25.md",
     "Y1S1/Electrical Design",
     "Y1S1/Electrical Design/Logbook",
     "Images/Pasted image 20251124135301.png",
-    "Y1S1/Electrical Principles/Contents.md",
-    "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
     "Images/Pasted image 20251124130907.png",
     "Images/Pasted image 20251105161554.png",
     "Images/Pasted image 20251105161541.png",
@@ -212,13 +223,7 @@
     "Images/Pasted image 20251124131458.png",
     "Excalidraw/PointCharge2.md",
     "Y1S1/Mathematics/Contents.md",
-    "Y1S1/Mathematics/Week2/Polynomials.md",
-    "Excalidraw/LongDivision.md",
     "Y1S1/Mathematics/Week2",
-    "Y1S1/Mathematics/Week1/Functions.md",
-    "Y1S1/Mathematics/Week1/Quadratics.md",
-    "Excalidraw/CompletingSquare.md",
-    "Y1S1/Mathematics/Week1/Basic Algebra.md",
     "Y1S1/Mathematics/Week1",
     "README.md",
     "Y1S1/Mathematics",
@@ -227,7 +232,6 @@
     "Excalidraw",
     "Images",
     "Y1S1/Electrical Principles/Week1",
-    "Y1S1/Electrical Principles",
-    "Y1S1/Electrical Design"
+    "Y1S1/Electrical Principles"
   ]
 }
