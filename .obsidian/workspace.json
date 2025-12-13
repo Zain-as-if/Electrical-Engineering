@@ -35,7 +35,8 @@
               "title": "24.11.25"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,13 +197,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ea1fa45521fb24e",
+  "active": "593376fbced75cef",
   "lastOpenFiles": [
+    "Y1S1/Electrical Principles/Filters/Passive Filter.md",
+    "conflict-files-obsidian-git.md",
+    "Y1S1/Electrical Principles/Filters/Multisim/passivefilter.ms14 (Security copy)",
+    "Y1S1/Electrical Design/Multisim/FanController.ms14 (Security copy)",
+    "Y1S1/Electrical Design/Multisim/FanController.ms14",
+    "Y1S1/Electrical Design/Multisim",
     "Y1S1/Electrical Design/Logbook/26.11.25.md",
     "Y1S1/Mathematics/Week2/Partial Fractions.md",
     "Y1S1/Electrical Principles/Filters/Multisim/passivefilter.ms14",
     "Y1S1/Electrical Principles/Filters/Multisim/activefilter.ms14",
-    "Y1S1/Electrical Principles/Filters/Passive Filter.md",
     "Y1S1/Electrical Principles/Filters/Multisim",
     "Y1S1/Electrical Principles/Filters",
     "Y1S1/Electrical Design/Logbook/01.12.25.md",
@@ -214,14 +220,12 @@
     "2. Current, E-Field, etc.md",
     "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
     "Y1S1/Mathematics/Week2/Polynomials.md",
-    "conflict-files-obsidian-git.md",
     "Y1S1/Electrical Design/Logbook",
     "Y1S1/Mathematics/Contents.md",
     "Y1S1/Mathematics/Week1/Quadratics.md",
     "Y1S1/Mathematics/Week1/Basic Algebra.md",
     "Y1S1/Mathematics/Week1/Functions.md",
     "Y1S1/Mathematics/Week2",
-    "Y1S1/Mathematics/Week1",
     "Images/Pasted image 20251105161554.png",
     "Images/Pasted image 20251105161541.png",
     "Excalidraw/LongDivision.md",
@@ -230,9 +234,6 @@
     "Excalidraw/Energy.md",
     "Excalidraw/PointCharge2.md",
     "Excalidraw/PointCharge1.md",
-    "Excalidraw",
-    "Images",
-    "Images/Pasted image 20251031180818.png",
-    "Y1S1/Electrical Principles/Week1"
+    "Images/Pasted image 20251031180818.png"
   ]
 }
