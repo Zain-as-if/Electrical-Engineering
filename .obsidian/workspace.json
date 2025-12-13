@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "dac0efc1a1d1c62d",
+        "id": "e8ae091d7cf14c8e",
         "type": "tabs",
         "children": [
           {
-            "id": "843b8b3fdb33c4e6",
+            "id": "3ea1fa45521fb24e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y1S1/Mathematics/Week2/Partial Fractions.md",
+                "file": "Y1S1/Electrical Principles/Filters/Passive Filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Partial Fractions"
+              "title": "Passive Filter"
+            }
+          },
+          {
+            "id": "74e07463b21e9dd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Y1S1/Electrical Design/Logbook/24.11.25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24.11.25"
             }
           }
         ]
@@ -73,24 +87,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "c3e60bf613d3c97b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20251105161541.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251105161541"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 207.50043487548828
   },
   "right": {
     "id": "49e35babd84a5ec5",
@@ -178,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,44 +196,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "843b8b3fdb33c4e6",
+  "active": "3ea1fa45521fb24e",
   "lastOpenFiles": [
-    "Y1S1/Mathematics/Week2/Polynomials.md",
-    "Y1S1/Electrical Principles/Filters/Passive Filter.md",
-    "Y1S1/Mathematics/Week2/Partial Fractions.md",
-    "Y1S1/Electrical Principles/Filters",
-    "Excalidraw/LongDivision.md",
-    "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
-    "Y1S1/Electrical Principles/Week1/2. Current, E-Field, etc.md",
-    "Y1S1/Electrical Design/Logbook/01.12.25.md",
     "Y1S1/Electrical Design/Logbook/26.11.25.md",
+    "Y1S1/Mathematics/Week2/Partial Fractions.md",
+    "Y1S1/Electrical Principles/Filters/Multisim/passivefilter.ms14",
+    "Y1S1/Electrical Principles/Filters/Multisim/activefilter.ms14",
+    "Y1S1/Electrical Principles/Filters/Passive Filter.md",
+    "Y1S1/Electrical Principles/Filters/Multisim",
+    "Y1S1/Electrical Principles/Filters",
+    "Y1S1/Electrical Design/Logbook/01.12.25.md",
+    "Images/Pasted image 20251204120016.png",
+    "Images/Pasted image 20251204120009.png",
+    "Y1S1/Electrical Design/Logbook/24.11.25.md",
+    "Y1S1/Electrical Principles/Week1/2. Current, E-Field, etc.md",
     "Y1S1/Electrical Principles/Contents.md",
+    "2. Current, E-Field, etc.md",
+    "Y1S1/Electrical Principles/Week1/1. Charged & Electrostatic Forces.md",
+    "Y1S1/Mathematics/Week2/Polynomials.md",
+    "conflict-files-obsidian-git.md",
+    "Y1S1/Electrical Design/Logbook",
+    "Y1S1/Mathematics/Contents.md",
+    "Y1S1/Mathematics/Week1/Quadratics.md",
     "Y1S1/Mathematics/Week1/Basic Algebra.md",
     "Y1S1/Mathematics/Week1/Functions.md",
-    "Y1S1/Mathematics/Week1/Quadratics.md",
-    "Excalidraw/CompletingSquare.md",
-    "Images/Pasted image 20251204120009.png",
-    "Images/Pasted image 20251204120016.png",
-    "Y1S1/Electrical Design/Logbook/24.11.25.md",
-    "Y1S1/Electrical Design",
-    "Y1S1/Electrical Design/Logbook",
-    "Images/Pasted image 20251124135301.png",
-    "Images/Pasted image 20251124130907.png",
-    "Images/Pasted image 20251105161554.png",
-    "Images/Pasted image 20251105161541.png",
-    "Images/Pasted image 20251031180818.png",
-    "Images/Pasted image 20251124131458.png",
-    "Excalidraw/PointCharge2.md",
-    "Y1S1/Mathematics/Contents.md",
     "Y1S1/Mathematics/Week2",
     "Y1S1/Mathematics/Week1",
+    "Images/Pasted image 20251105161554.png",
+    "Images/Pasted image 20251105161541.png",
+    "Excalidraw/LongDivision.md",
+    "Excalidraw/CompletingSquare.md",
     "README.md",
-    "Y1S1/Mathematics",
     "Excalidraw/Energy.md",
+    "Excalidraw/PointCharge2.md",
     "Excalidraw/PointCharge1.md",
     "Excalidraw",
     "Images",
-    "Y1S1/Electrical Principles/Week1",
-    "Y1S1/Electrical Principles"
+    "Images/Pasted image 20251031180818.png",
+    "Y1S1/Electrical Principles/Week1"
   ]
 }
