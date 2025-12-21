@@ -11,7 +11,7 @@ Week 3:
 - [[Differentiation]]
 - [[Trigonometry]]
 Week 4:
-- [[MinMax]]
+- [[Min Max]]
 - [[Integration]]
 Week 5:
 - [[Definite Integrals]]
