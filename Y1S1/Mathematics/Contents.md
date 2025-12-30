@@ -14,8 +14,6 @@ Week 4:
 - [[Min Max]]
 - [[Integration]]
 Week 5:
-- [[Definite Integrals]]
-- [[Areas]]
 - [[Numerical Approximations]]
 Week 6:
 - [[Maclaurin & Taylors]]

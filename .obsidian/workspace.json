@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a815a7240d658f5",
+        "id": "50b97a329f6510f4",
         "type": "tabs",
         "children": [
           {
-            "id": "f63c660913aa9a8a",
+            "id": "6e3e302625278270",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Y1S1/Electrical Principles/Week 2/3. Batteries, EMF, PD & Resistance.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3. Batteries, EMF, PD & Resistance"
             }
           }
         ]
@@ -178,13 +182,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f63c660913aa9a8a",
+  "active": "70c4a06e694e310d",
   "lastOpenFiles": [
+    "Images/Pasted image 20251230023626.png",
+    "Y1S1/Mathematics/Contents.md",
+    "Y1S1/Mathematics/Week 5/Numerical Approximations.md",
+    "Y1S1/Mathematics/Week 5/Areas.md",
+    "Y1S1/Mathematics/Week 5/Definite Integrals.md",
+    "Y1S1/Mathematics/Week 4/Integration.md",
+    "Y1S1/Mathematics/Week 3/Trigonometry.md",
+    "Y1S1/Mathematics/Week 3/Differentiation.md",
+    "Images/Pasted image 20251230023523.png",
+    "Y1S1/Mathematics/Week 4/Min Max.md",
+    "Images/Pasted image 20251230021727.png",
+    "Images/Pasted image 20251230021510.png",
+    "Images/Pasted image 20251230021459.png",
+    "Images/Pasted image 20251230021458.png",
+    "Images/Pasted image 20251230021413.png",
+    "Images/Pasted image 20251230021357.png",
+    "Images/Pasted image 20251230020610.png",
+    "Images/Pasted image 20251230020606.png",
     "README.md",
+    "Untitled.md",
+    "Y1S1/Mathematics/Week 2/Intro To Trig.md",
     "Y1S1/Electrical Principles/Week 1/1. Charged & Electrostatic Forces.md",
+    "Excalidraw/Cast Diagram.md",
+    "Y1S1/Mathematics/Week 2/Logs & Exponentials.md",
+    "Y1S1/Mathematics/Week 2/Polynomials.md",
+    "Y1S1/Mathematics/Week 2/Partial Fractions.md",
+    "Excalidraw/CompletingSquare.md",
+    "Y1S1/Mathematics/Week 1/Quadratics.md",
     "Y1S1/Electrical Principles/Week 1/2. Current, E-Field, Etcetera.md",
-    "Y1S1/Electrical Principles/Week 2/3. Batteries, EMF, PD & Resistance.md",
     "Y1S1/Electrical Principles/Contents.md",
+    "Y1S1/Electrical Principles/Week 2/3. Batteries, EMF, PD & Resistance.md",
     "Y1S1/Electrical Principles/Week 11/19. Transformers & 3 Phase Power Systems.md",
     "Y1S1/Electrical Principles/Week 11",
     "Y1S1/Electrical Principles/Week 10/17. Power In AC Circuits.md",
@@ -192,34 +222,12 @@
     "Y1S1/Electrical Principles/Week 9/15. Reactive Circuits.md",
     "Y1S1/Electrical Principles/Week 9",
     "Y1S1/Electrical Principles/Week 8/14. EM Induction.md",
-    "Y1S1/Electrical Principles/Week 8/13. Capacitors.md",
     "Y1S1/Electrical Principles/Week 8",
-    "Y1S1/Electrical Principles/Week 7/12. AC Normalized Power, Energy & RMS Value.md",
-    "Y1S1/Electrical Principles/Week 7/11. AC Signal Period, Frequency, Phase & Mean Value.md",
     "Y1S1/Electrical Principles/Week 7",
-    "Y1S1/Electrical Principles/Week 5/10. Nodal Analysis.md",
-    "Y1S1/Electrical Principles/Week 5/9. Mesh Analysis.md",
     "Y1S1/Electrical Principles/Week 5",
-    "Y1S1/Electrical Principles/Week 4/8. Thevenin & North Equivalent Circuits.md",
-    "Y1S1/Electrical Principles/Week 4/7. Voltage & Current Sources, Reduce & Return & Superposition.md",
     "Y1S1/Electrical Principles/Week 4",
-    "Y1S1/Electrical Principles/Week 3/6. Parallel Circuits, Conductance, KCL & Loading Effects.md",
-    "Y1S1/Electrical Principles/Week 3/5. Series Circuits, KVL & Internal Resistance.md",
     "Y1S1/Electrical Principles/Week 3",
-    "Y1S1/Electrical Principles/Week 2/4. Resistance, Ohm's Law, Power & Efficiency.md",
     "Y1S1/Electrical Principles/Week 2",
-    "Y1S1/Mathematics/Contents.md",
-    "Y1S1/Mathematics/Week 4/Min Max.md",
-    "conflict-files-obsidian-git.md",
-    "Y1S1/Mathematics/Week 11/Continuous Random Variables.md",
-    "Y1S1/Mathematics/Week 11/Discrete Random Variables.md",
-    "Y1S1/Mathematics/Week 11/Linear Regression Analysis.md",
-    "Y1S1/Mathematics/Week 11/Intro To Probability.md",
-    "Y1S1/Mathematics/Week 11",
-    "Images/Pasted image 20251204120016.png",
-    "Images/Pasted image 20251204120009.png",
-    "Images/Pasted image 20251105161554.png",
-    "Images/Pasted image 20251105161541.png",
-    "Images/Pasted image 20251031180818.png"
+    "Y1S1/Mathematics/Week 11"
   ]
 }
