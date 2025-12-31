@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y1S1/Mathematics/Week 6/Maclaurin & Taylors.md",
+                "file": "Y1S1/Mathematics/Week 6/Vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maclaurin & Taylors"
+              "title": "Vectors"
             }
           }
         ]
@@ -184,6 +184,8 @@
   },
   "active": "6e3e302625278270",
   "lastOpenFiles": [
+    "Y1S1/Mathematics/Week 6/Maclaurin & Taylors.md",
+    "Y1S1/Mathematics/Week 6/Vectors.md",
     "Y1S1/Mathematics/Week 5/Numerical Approximations.md",
     "Y1S1/Electrical Principles/Week 2/3. Batteries, EMF, PD & Resistance.md",
     "Images/Pasted image 20251230023626.png",
@@ -221,7 +223,6 @@
     "Y1S1/Electrical Principles/Week 10",
     "Y1S1/Electrical Principles/Week 9/15. Reactive Circuits.md",
     "Y1S1/Electrical Principles/Week 9",
-    "Y1S1/Electrical Principles/Week 8/14. EM Induction.md",
     "Y1S1/Electrical Principles/Week 8",
     "Y1S1/Electrical Principles/Week 7",
     "Y1S1/Electrical Principles/Week 5",
