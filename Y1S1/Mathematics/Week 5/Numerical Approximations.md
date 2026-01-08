@@ -1,4 +1,5 @@
-<h4>Trapezium Rule</h4>
+# Trapezium Rule
+
 Approximation of the integral $\int_{a}^{b}f(x)\ dx$
 Area of trapezium is:$$\frac{h}{2}(a+b)$$
 Trapezium Rule
@@ -16,7 +17,8 @@ h&=\frac{1.5-0}{3}=0.5\\
 \end{align*}$$
 Will either be an overestimate or underestimate
 Depends on the shape of the graph and whether trapeziums lie above the curve or stay above
-<h4>Simpson's Rule</h4>
+# Simpson's Rule
+
 Approximation of the integral $\int_{a}^{b}f(x)\ dx$
 $$\begin{align*}
 \int_{a}^{b}f(x)\ dx&\approx S_{n}\\

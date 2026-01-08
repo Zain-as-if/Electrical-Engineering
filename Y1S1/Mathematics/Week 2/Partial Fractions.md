@@ -46,8 +46,7 @@ E.g.$$\begin{align*}
 \text{Solving for B gives:}\ B&=4
 \end{align*}
 $$
-# General Rules
+Decomposition in partial fractions of the rational function $$f(x)=\frac{P(x)}{Q(x)}$$
+depends on the factorisation of $Q(x)$
 
-Decomposition in partial fractions of the rational function $$f(x)=\frac{P(x)}{Q(x)}$$ depends on the factorisation of $Q(x)$
 ![[Pasted image 20251230014235.png]]
-

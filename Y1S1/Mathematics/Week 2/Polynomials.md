@@ -10,7 +10,8 @@ E.g.
 Divide:
 $y=2x^2+3x+5$ by $x+5$
 ![[LongDivision]]
-<h4>Remainder Theorem</h4>
+# Remainder Theorem
+
 In each case we note that the remainder after dividing a polynomial $p(x)$ by $x-a$ is $p(a)$,
 
 i.e. the value of the polynomial evaluated at $x=a$
@@ -20,7 +21,8 @@ where $q(x)$ is a polynomial of order one less than $p(x)$. The remainder is $p(
 
 If '$a$' is a root of a polynomial, then $p(a)=0$
 
-<h4>Factor Theorem</h4>
+# Factor Theorem
+
 If $a$ is a root of a polynomial $p(x), (x-a)$ is a factor,
 i.e. $p(x)=q(x)(x-a)$
 where $q(x)$ is a polynomial of order one less than $p(x)$
