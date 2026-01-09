@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f12af7d9adb7071a",
+        "id": "9245c21fb02c6b82",
         "type": "tabs",
         "children": [
           {
-            "id": "4060eb868b0aac88",
+            "id": "a3f927b9a9533ddc",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20260109023052.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260109023052"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -159,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20260109023052.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260109023052"
+              "title": "Outline"
             }
           }
         ]
@@ -188,12 +185,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70c4a06e694e310d",
+  "active": "a3f927b9a9533ddc",
   "lastOpenFiles": [
+    "Y1S1/Mathematics/Contents.md",
+    "README.md",
+    "Images/Pasted image 20260109023052.png",
     "Y1S1/Mathematics/Week 6/Vectors.md",
     "Y1S1/Mathematics/Week 4/Integration.md",
     "Y1S1/Electrical Principles/Contents.md",
-    "Y1S1/Mathematics/Contents.md",
     "Y1S1/Electrical Principles/Week 3/6. Parallel Circuits, Conductance, KCL & Loading Effects.md",
     "Y1S1/Electrical Principles/Week 3/5. Series Circuits, KVL & Internal Resistance.md",
     "Y1S1/Electrical Principles/Week 2/4. Resistance, Ohm's Law, Power & Efficiency.md",
@@ -211,7 +210,6 @@
     "Images/Pasted image 20260109050715.png",
     "Images/Pasted image 20260109050254.png",
     "Images/Pasted image 20260109050231.png",
-    "Images/Pasted image 20260109050204.png",
     "Y1S1/Electrical Principles/Week 4/7. Voltage & Current Sources, Reduce & Return & Superposition.md",
     "Y1S1/Mathematics/Week 6/Maclaurin & Taylors.md",
     "Y1S1/Mathematics/Week 5/Numerical Approximations.md",
@@ -225,7 +223,6 @@
     "Y1S1/Mathematics/Week 1/Functions.md",
     "Y1S1/Mathematics/Week 1/Basic Algebra.md",
     "Y1S1/Electrical Design/Logbook/26.11.25.md",
-    "Y1S1/Electrical Design/Logbook/24.11.25.md",
     "Y1S1/Electrical Principles/Week 11",
     "Y1S1/Electrical Principles/Week 10",
     "Y1S1/Electrical Principles/Week 9",
