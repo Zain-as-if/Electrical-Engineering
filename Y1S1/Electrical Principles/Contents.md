@@ -49,7 +49,38 @@ Week 3:
 	- [[6. Parallel Circuits, Conductance, KCL & Loading Effects#Voltage Sources|Voltage Sources]]
 Week 4:
 - [[7. Voltage & Current Sources, Reduce & Return & Superposition]] 53
+	- [[7. Voltage & Current Sources, Reduce & Return & Superposition#Voltage Sources|Voltage Sources]]
+		- [[7. Voltage & Current Sources, Reduce & Return & Superposition#Ideal Voltage Source|Ideal Voltage Sources]]
+		- [[7. Voltage & Current Sources, Reduce & Return & Superposition#Real Voltage Sources|Real Voltage Sources]]
+	- [[7. Voltage & Current Sources, Reduce & Return & Superposition#Current Sources|Current Sources]]
+		- [[7. Voltage & Current Sources, Reduce & Return & Superposition#Ideal Current Source|Ideal Current Sources]]
+		- [[7. Voltage & Current Sources, Reduce & Return & Superposition#Real Current Sources|Real Current Sources]]
+	- [[7. Voltage & Current Sources, Reduce & Return & Superposition#Source Conversions|Source Conversions]]
+	- [[7. Voltage & Current Sources, Reduce & Return & Superposition#Reduce & Return|Reduce & Return]]
+	- [[7. Voltage & Current Sources, Reduce & Return & Superposition#Linear System|Linear Systems]]
+		- [[7. Voltage & Current Sources, Reduce & Return & Superposition#Principle Of Superposition|Principle Of Superposition]]
+	- [[7. Voltage & Current Sources, Reduce & Return & Superposition#Linear Circuits|Linear Circuits]]
+		- [[7. Voltage & Current Sources, Reduce & Return & Superposition#Non-Linear Example|Non-Linear Example]]
+	- [[7. Voltage & Current Sources, Reduce & Return & Superposition#Superposition For Circuits|Superposition For Circuits]]
+		- [[7. Voltage & Current Sources, Reduce & Return & Superposition#Recipe For Circuits|Recipe For Circuits]]
+		- [[7. Voltage & Current Sources, Reduce & Return & Superposition#Examples|Examples]]
+			- [[7. Voltage & Current Sources, Reduce & Return & Superposition#E.g. 1|Example 1]]
+			- [[7. Voltage & Current Sources, Reduce & Return & Superposition#E.g. 2|Example 2]]
+			- [[7. Voltage & Current Sources, Reduce & Return & Superposition#E.g. 3|Example 3]]
 - [[8. Thevenin & North Equivalent Circuits]] 43
+	- [[8. Thevenin & North Equivalent Circuits#Thevenin's Theorem|Thevenin's Theorem]]
+		- [[8. Thevenin & North Equivalent Circuits#Technique|Technique]]
+		- [[8. Thevenin & North Equivalent Circuits#Examples|Examples]]
+			- [[8. Thevenin & North Equivalent Circuits#E.g. 1|Example 1]]
+			- [[8. Thevenin & North Equivalent Circuits#E.g. 2|Example 2]]
+			- [[8. Thevenin & North Equivalent Circuits#E.g. 3|Example 3 Inc. Superposition]]
+	- [[8. Thevenin & North Equivalent Circuits#Norton's Theorem|Norton's Theorem]]
+		- [[8. Thevenin & North Equivalent Circuits#Technique|Technique]]
+		- [[8. Thevenin & North Equivalent Circuits#Examples|Examples]]
+			- [[8. Thevenin & North Equivalent Circuits#E.g. 1|Example 1]]
+			- [[8. Thevenin & North Equivalent Circuits#E.g. 2|Example 2]]
+			- [[8. Thevenin & North Equivalent Circuits#E.g. 3|Example 3 Inc. Superposition]]
+	- [[8. Thevenin & North Equivalent Circuits#Maximum Power Transfer Theorem|Maximum Power Transfer Theorem]]
 Week 5:
 - [[9. Mesh Analysis]] 45
 - [[10. Nodal Analysis]] 31
@@ -67,3 +98,13 @@ Week 10:
 - [[17. Power In AC Circuits]] 46
 Week 11: 
 - [[19. Transformers & 3 Phase Power Systems]] 34
+
+Exam Practice Questions To Do:
+1. **Point Charges** + **Coulombs Law** + ~Energy
+2. **Electric Flux** + Density + Capacitance
+3. **RMS** + **Battery Life**
+4. **Resistance (Series + Parallel)** + **Ohm's Law** + Conductance + **Short/Open Circuits** + ~Reading Resistor Bands + **Power** + **Efficiency** 
+5. **KVL** + **Voltage Divider Rule**
+6. **KCL** + **Current Divider Rule**
+7. **Ideal/Real Voltage/Current Sources** + **Source Conversions** + Linear Systems + **Superposition**
+8. **Thevenin** + **Norton** + Maximum Power Transfer
