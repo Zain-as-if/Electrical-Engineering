@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00fa44e52903c5a0",
+        "id": "ae58eba1041ebb78",
         "type": "tabs",
         "children": [
           {
-            "id": "7d365c9798d03d9d",
+            "id": "5a2a7a53df00af4a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20260109201728.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260109201728"
+              "title": "Outline"
             }
           }
         ]
@@ -186,43 +185,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70c4a06e694e310d",
+  "active": "5a2a7a53df00af4a",
   "lastOpenFiles": [
+    "Images/Pasted image 20260111003929.png",
     "Y1S1/Electrical Principles/Contents.md",
+    "Y1S1/Electrical Principles/Week 8/14. EM Induction.md",
+    "Images/Pasted image 20260111023614.png",
+    "Images/Pasted image 20260111023453.png",
+    "Images/Pasted image 20260111023438.png",
+    "Images/Pasted image 20260111023358.png",
+    "Images/Pasted image 20260111023339.png",
+    "Images/Pasted image 20260111023244.png",
+    "Images/Pasted image 20260111023234.png",
+    "Images/Pasted image 20260111022706.png",
+    "Images/Pasted image 20260111022501.png",
+    "Images/Pasted image 20260111022436.png",
+    "Y1S1/Electrical Principles/Week 8/13. Capacitors.md",
+    "README.md",
+    "Y1S1/Electrical Principles/Week 2/4. Resistance, Ohm's Law, Power & Efficiency.md",
+    "Y1S1/Electrical Principles/Week 1/2. Current, E-Field, Etcetera.md",
     "Y1S1/Electrical Principles/Week 7/12. AC Normalized Power, Energy & RMS Value.md",
     "Y1S1/Electrical Principles/Week 5/9. Mesh Analysis.md",
     "Y1S1/Electrical Principles/Week 7/11. AC Signal Period, Frequency, Phase & Mean Value.md",
     "Y1S1/Electrical Principles/Week 5/10. Nodal Analysis.md",
-    "Images/Pasted image 20260110005549.png",
-    "Images/Pasted image 20260110005204.png",
-    "Images/Pasted image 20260110005141.png",
-    "Images/Pasted image 20260110005122.png",
-    "Images/Pasted image 20260110004602.png",
-    "Images/Pasted image 20260110004439.png",
-    "Images/Pasted image 20260110004323.png",
-    "Images/Pasted image 20260110004142.png",
-    "Images/Pasted image 20260110003550.png",
-    "Images/Pasted image 20260110003430.png",
     "Excalidraw/MeshAnalysisKVL2.excalidraw.md",
     "Excalidraw/MeshAnalysisKVL1.excalidraw.md",
     "Excalidraw/Determinant.excalidraw.md",
     "Excalidraw/Adjoint.excalidraw.md",
     "Excalidraw/Cofactors.excalidraw.md",
     "Y1S1/Mathematics/Contents.md",
-    "README.md",
     "Y1S1/Mathematics/Week 6/Vectors.md",
     "Y1S1/Mathematics/Week 4/Integration.md",
     "Y1S1/Electrical Principles/Week 3/6. Parallel Circuits, Conductance, KCL & Loading Effects.md",
     "Y1S1/Electrical Principles/Week 3/5. Series Circuits, KVL & Internal Resistance.md",
-    "Y1S1/Electrical Principles/Week 2/4. Resistance, Ohm's Law, Power & Efficiency.md",
     "Y1S1/Electrical Principles/Week 2/3. Batteries, EMF, PD & Resistance.md",
-    "Y1S1/Electrical Principles/Week 1/2. Current, E-Field, Etcetera.md",
     "Y1S1/Electrical Principles/Week 4/8. Thevenin & North Equivalent Circuits.md",
     "Y1S1/Electrical Principles/Week 1/1. Charged & Electrostatic Forces.md",
     "Y1S1/Mathematics/Week 3/Differentiation.md",
     "Y1S1/Electrical Principles/Week 4/7. Voltage & Current Sources, Reduce & Return & Superposition.md",
-    "Y1S1/Mathematics/Week 6/Maclaurin & Taylors.md",
-    "Y1S1/Mathematics/Week 5/Numerical Approximations.md",
     "Y1S1/Electrical Principles/Week 11",
     "Y1S1/Electrical Principles/Week 10",
     "Y1S1/Electrical Principles/Week 9",
