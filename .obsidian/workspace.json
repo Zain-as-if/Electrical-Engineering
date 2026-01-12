@@ -11,10 +11,14 @@
             "id": "5a2a7a53df00af4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Y1S1/Electrical Principles/Contents.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Contents"
             }
           }
         ]
@@ -157,12 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Y1S1/Electrical Principles/Contents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Contents"
             }
           }
         ]
@@ -187,19 +192,19 @@
   },
   "active": "5a2a7a53df00af4a",
   "lastOpenFiles": [
-    "Images/Pasted image 20260111003929.png",
+    "Y1S1/Electrical Principles/Week 9/15. Reactive Circuits.md",
+    "Pasted image 20260112021737.png",
+    "Pasted image 20260112021727.png",
+    "Pasted image 20260112021717.png",
+    "Pasted image 20260112021713.png",
+    "Pasted image 20260112021711.png",
+    "Pasted image 20260112021530.png",
+    "Pasted image 20260112021244.png",
+    "Pasted image 20260112021203.png",
+    "Pasted image 20260112021027.png",
+    "Pasted image 20260112020758.png",
     "Y1S1/Electrical Principles/Contents.md",
     "Y1S1/Electrical Principles/Week 8/14. EM Induction.md",
-    "Images/Pasted image 20260111023614.png",
-    "Images/Pasted image 20260111023453.png",
-    "Images/Pasted image 20260111023438.png",
-    "Images/Pasted image 20260111023358.png",
-    "Images/Pasted image 20260111023339.png",
-    "Images/Pasted image 20260111023244.png",
-    "Images/Pasted image 20260111023234.png",
-    "Images/Pasted image 20260111022706.png",
-    "Images/Pasted image 20260111022501.png",
-    "Images/Pasted image 20260111022436.png",
     "Y1S1/Electrical Principles/Week 8/13. Capacitors.md",
     "README.md",
     "Y1S1/Electrical Principles/Week 2/4. Resistance, Ohm's Law, Power & Efficiency.md",
@@ -222,7 +227,6 @@
     "Y1S1/Electrical Principles/Week 4/8. Thevenin & North Equivalent Circuits.md",
     "Y1S1/Electrical Principles/Week 1/1. Charged & Electrostatic Forces.md",
     "Y1S1/Mathematics/Week 3/Differentiation.md",
-    "Y1S1/Electrical Principles/Week 4/7. Voltage & Current Sources, Reduce & Return & Superposition.md",
     "Y1S1/Electrical Principles/Week 11",
     "Y1S1/Electrical Principles/Week 10",
     "Y1S1/Electrical Principles/Week 9",
