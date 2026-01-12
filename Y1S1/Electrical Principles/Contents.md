@@ -217,8 +217,49 @@ Week 9:
 	- [[15. Reactive Circuits#Significance Of Time Constant|Significance Of Time Constant]]
 Week 10:
 - [[17. Power In AC Circuits]] 46
+	- [[17. Power In AC Circuits#Purely Resistive Circuit|Purely Resistive Circuit]]
+		- [[17. Power In AC Circuits#Calculations Of Power In Resistive Circuit|Calculations Of Power In Resistive Circuit]]
+	- - [[17. Power In AC Circuits#Purely Capacitive Circuit|Purely Capacitive Circuit]]    
+	- [[17. Power In AC Circuits#Purely Inductive Circuit|Purely Inductive Circuit]]
+	- [[17. Power In AC Circuits#Circuits With Inductance & Resistance|Circuits With Inductance & Resistance]]
+	- [[17. Power In AC Circuits#Sinusoidal Waveforms With In-Phase I & V|Sinusoidal Waveforms With In-Phase I & V]]
+	- [[17. Power In AC Circuits#Power In Reactive Circuits|Power In Reactive Circuits]]
+		- [[17. Power In AC Circuits#Real Power (Watts)|Real Power (Watts)]]
+	    - [[17. Power In AC Circuits#Reactive Power (Volts-Amps Reactive)|Reactive Power (Volts-Amps Reactive)]]
+	    - [[17. Power In AC Circuits#Apparent Power (Volts-Amps)|Apparent Power (Volts-Amps)]]
+	    - [[17. Power In AC Circuits#Power Factor|Power Factor]]
+	    - [[17. Power In AC Circuits#Sign Of Reactive Power|Sign Of Reactive Power]]
+	- [[17. Power In AC Circuits#Complex Apparent Power, Imaginary Reactive Power, Real Power|Complex Apparent Power, Imaginary Reactive Power, Real Power]]
+	- [[17. Power In AC Circuits#Power Triangle|Power Triangle]]
+	- [[17. Power In AC Circuits#Example|Example]]
+	- [[17. Power In AC Circuits#Electricity Charges|Electricity Charges]]
+	- [[17. Power In AC Circuits#Power Factor Correction|Power Factor Correction]]
+	    - [[17. Power In AC Circuits#Example 1|Example 1]]
+	    - [[17. Power In AC Circuits#Example 2|Example 2]]
+	- [[17. Power In AC Circuits#Apparent Power In Ideal Transformers|Apparent Power In Ideal Transformers]]
 Week 11: 
 - [[19. Transformers & 3 Phase Power Systems]] 34
+	- - [[19. Transformers & 3 Phase Power Systems#Transformer Voltage Relationship|Transformer Voltage Relationship]]
+	- [[19. Transformers & 3 Phase Power Systems#Transformer Apparent Power Relationship|Transformer Apparent Power Relationship]]
+	- [[19. Transformers & 3 Phase Power Systems#Transformer Current Relationship|Transformer Current Relationship]]
+	- [[19. Transformers & 3 Phase Power Systems#Phase Relationship|Phase Relationship]]
+	- [[19. Transformers & 3 Phase Power Systems#Dot Notation|Dot Notation]]
+	- [[19. Transformers & 3 Phase Power Systems#Auto Transformers|Auto Transformers]]
+	- [[19. Transformers & 3 Phase Power Systems#Symbols|Symbols]]
+	- [[19. Transformers & 3 Phase Power Systems#Core & Shell Type Constructions|Core & Shell Type Constructions]]
+	    - [[19. Transformers & 3 Phase Power Systems#EI (Shell-Type) Construction|EI (Shell-Type) Construction]]
+	    - [[19. Transformers & 3 Phase Power Systems#Reduction Of Eddy Currents Using Laminated Core|Reduction Of Eddy Currents Using Laminated Core]]
+	    - [[19. Transformers & 3 Phase Power Systems#Toroidal Transformer|Toroidal Transformer]]
+	- [[19. Transformers & 3 Phase Power Systems#Losses In Non-Ideal (Real) Transformers|Losses In Non-Ideal (Real) Transformers]]
+	    - [[19. Transformers & 3 Phase Power Systems#Hysteresis Losses|Hysteresis Losses]]
+	    - [[19. Transformers & 3 Phase Power Systems#Eddy Current Loss|Eddy Current Loss]]
+	    - [[19. Transformers & 3 Phase Power Systems#Copper Losses|Copper Losses]]
+	    - [[19. Transformers & 3 Phase Power Systems#Stray Losses|Stray Losses]]
+	    - [[19. Transformers & 3 Phase Power Systems#Dielectric Losses|Dielectric Losses]]
+	- [[19. Transformers & 3 Phase Power Systems#Use Of Transformers In A 3-Phase Transmission/Distribution System|Use Of Transformers In A 3-Phase Transmission/Distribution System]]
+	- [[19. Transformers & 3 Phase Power Systems#Instrument Transformers|Instrument Transformers]]
+	    - [[19. Transformers & 3 Phase Power Systems#Potential Transformers|Potential Transformers]]
+	    - [[19. Transformers & 3 Phase Power Systems#Current Transformer|Current Transformer]]
 
 **Bold** = Read + Questions
 *Italic* = YouTube + Questions
@@ -238,3 +279,7 @@ Exam Practice Questions To Do:
 13. *Capacitors* + *Energy Storage* + *Voltage Current Relationship* + *Capacitance* + *Physical* *Structure* + *Reactance* + *Susceptance* + *Impedance* + *Admittance* + *Parallel* + *Series* + *Position Sensing* + *Pressure* + *Supercapacitors*
 14. *Mechanisms That Produce EMF* + *Direction Of EMF* + *Faraday & Lenz's Law* + *Flux Linkage* + *Mutual Inductance* + *Self Inductance* + *Behaviours Of Inductors* + *Flyback Diodes* + *Defining +ve Voltage Across Inductor* + *Compare With Back EMF* + *Relationship Of Voltage & Inductor Current* + *Stored Energy In Conductor* + *Practical Inductors* + *Inductors Vs. Resistors* + *Inductive Reactance* + *Inductive Susceptance* + *Voltage-Current Relationship For Sinusoidal Signals* + *Inductor Sensing Applications* 
 15. *Reactance & Susceptance As Imaginary 'Resistance/Conductance'* + *Series & Parallel* + *Mixed Series-Parallel* + *Representations By Phasor* + *Phasor Diagrams* + *Choice Of Reference Phasor* + *Impedance Transformation* + *Transient Response* + *Step & Time Constant* + *Trailing Edge Step Response & Time Constant* + *Significance Of Time Constant*
+16. 
+17. *Purely Resistive Circuit* + *Calculations Of Power In Resistive Circuit* + *Purely Capacitive/Inductive Circuit* + *Circuits With Inductance & Resistance*e + *Sinusoidal Waveforms With In-Phase V & I* + *Power In Reactive Circuits* + *Real/Reactive/Apparent/Power Factor* + *Sign Of Reactive Power* + *Complex Apparent Power* + *Imaginary Reactive Power* + *Power Triangle* + *Electricity Charges* + *Power Factor Correction* + *Apparent Power In Ideal Transformers*
+18. 
+19. *Transformer Voltage/Current/Apparent Power/Phase Relationship* + *Dot Notation* + *Symbols* + *Auto Transformers* + *Core & Shell-Type Constructions* + *EI Constructions* + *Reduction Of Eddy Currents Using Laminated Core* + *Toroidal Transformer* + *Hysteresis/Eddy Current/Copper/Stray/Dielectric Losses In Non-Ideal (Real) Transformer* + *Use Of Transformers In A 3 Phase Transmission/Distribution System* + *Instrument Transformers* + *Potential/Current Transformers*

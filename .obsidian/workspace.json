@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e89a76580644afcc",
+        "id": "0aba59a2bb43fcd7",
         "type": "tabs",
         "children": [
           {
-            "id": "17b1c781212a2e42",
+            "id": "7f93ac3021aea019",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -83,7 +83,7 @@
       {
         "id": "4bb47af73353dbcf",
         "type": "tabs",
-        "dimension": 65.73275862068965,
+        "dimension": 35.27298850574713,
         "children": [
           {
             "id": "886b634368bbe8b4",
@@ -149,7 +149,7 @@
       {
         "id": "0e07b8b2f370deea",
         "type": "tabs",
-        "dimension": 34.26724137931034,
+        "dimension": 64.72701149425288,
         "children": [
           {
             "id": "7862a9674e40a719",
@@ -185,26 +185,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "17b1c781212a2e42",
+  "active": "7f93ac3021aea019",
   "lastOpenFiles": [
+    "Images/Pasted image 20260112203737.png",
+    "Y1S1/Electrical Principles/Contents.md",
+    "Y1S1/Electrical Principles/Week 11/19. Transformers & 3 Phase Power Systems.md",
+    "Y1S1/Electrical Principles/Week 10/17. Power In AC Circuits.md",
+    "Images/Pasted image 20260112221614.png",
+    "Images/Pasted image 20260112221524.png",
+    "Images/Pasted image 20260112221346.png",
+    "Images/Pasted image 20260112220959.png",
+    "Images/Pasted image 20260112220925.png",
+    "Images/Pasted image 20260112220917.png",
+    "Images/Pasted image 20260112220804.png",
+    "Images/Pasted image 20260112220737.png",
+    "Images/Pasted image 20260112220649.png",
+    "Images/Pasted image 20260112220623.png",
+    "Y1S1/Electrical Principles/Week 8/14. EM Induction.md",
     "Excalidraw/Cast Diagram.md",
     "Excalidraw/Drawing 2026-01-08 04.28.37.excalidraw.md",
-    "Y1S1/Electrical Principles/Contents.md",
-    "Images/Pasted image 20260112011544.png",
     "Y1S1/Mathematics/Contents.md",
     "Y1S1/Mathematics/Week 7/Complex Numbers.md",
-    "Images/Pasted image 20260112033547.png",
-    "Images/Pasted image 20260112033537.png",
-    "Images/Pasted image 20260112032844.png",
-    "Images/Pasted image 20260112032815.png",
-    "Images/Pasted image 20260112032528.png",
-    "Images/Pasted image 20260112032424.png",
-    "Images/Pasted image 20260112032215.png",
-    "Images/Pasted image 20260112031811.png",
-    "Images/Pasted image 20260112031759.png",
     "Y1S1/Mathematics/Week 6/Vectors.md",
     "Y1S1/Electrical Principles/Week 9/15. Reactive Circuits.md",
-    "Y1S1/Electrical Principles/Week 8/14. EM Induction.md",
     "Y1S1/Electrical Principles/Week 8/13. Capacitors.md",
     "README.md",
     "Y1S1/Electrical Principles/Week 2/4. Resistance, Ohm's Law, Power & Efficiency.md",
@@ -220,9 +223,6 @@
     "Excalidraw/Cofactors.excalidraw.md",
     "Y1S1/Mathematics/Week 4/Integration.md",
     "Y1S1/Electrical Principles/Week 3/6. Parallel Circuits, Conductance, KCL & Loading Effects.md",
-    "Y1S1/Electrical Principles/Week 3/5. Series Circuits, KVL & Internal Resistance.md",
-    "Y1S1/Electrical Principles/Week 2/3. Batteries, EMF, PD & Resistance.md",
-    "Y1S1/Electrical Principles/Week 4/8. Thevenin & North Equivalent Circuits.md",
     "Y1S1/Electrical Principles/Week 11",
     "Y1S1/Electrical Principles/Week 10",
     "Y1S1/Electrical Principles/Week 9",
