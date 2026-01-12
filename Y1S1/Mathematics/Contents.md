@@ -22,8 +22,36 @@ Week 5:
 Week 6:
 - [[Maclaurin & Taylors]] 21
 - [[Vectors]] 47
+	- [[Vectors#Vector Addition|Vector Addition]]
+	- [[Vectors#Vector Subtraction|Vector Subtraction]]
+	- [[Vectors#Multiplication By A Scalar|Multiplication By A Scalar]]
+	- [[Vectors#Unit Vector|Unit Vector]]
+	- [[Vectors#Position Vector|Position Vector]]
+	- [[Vectors#Cartesian Coordinates|Cartesian Coordinates]]
+		- [[Vectors#2D|2D]]
+		- [[Vectors#3D|3D]]
+	- [[Vectors#Manipulation Of Vectors In Component Form|Manipulation Of Vectors In Component Form]]
+	- [[Vectors#Magnitude|Magnitude]]
+	- [[Vectors#Distance|Distance]]
+	- [[Vectors#Scalar Products|Scalar Products]]
+	- [[Vectors#Cross Product|Cross Product]]
+	- [[Vectors#Scalar Triple Products|Scalar Triple Products]]
+	- [[Vectors#Work Done|Work Done]]
+	- [[Vectors#Vector Moment|Vector Moment]]
 Week 7:
 - [[Complex Numbers]] 15+15
+	- [[Complex Numbers#Argand Diagram|Argand Diagram]]
+	- [[Complex Numbers#Algebra Of Complex Numbers|Algebra Of Complex Numbers]]
+	- [[Complex Numbers#Modulus|Modulus]]
+	- [[Complex Numbers#Polar Form|Polar Form]]
+		- [[Complex Numbers#Arg(z)|Argument, arg(z)]]
+		- [[Complex Numbers#Principle Argument|Principle Argument, Arg(z)]]
+		- [[Complex Numbers#Multiplication & Division|Multiplication & Division]]
+		- [[Complex Numbers#Integer Powers Of Z|Integer Powers Of Z]]
+		- [[Complex Numbers#Roots|Roots]]
+			- [[Complex Numbers#Example 1|Example 1]]
+			- [[Complex Numbers#Example 2|Example 2]]
+	- [[Complex Numbers#Exponential Form]]
 Week 8:
 - [[Matrices]] 34
 - [[Determinants]] 11
