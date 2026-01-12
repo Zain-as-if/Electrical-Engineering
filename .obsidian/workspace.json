@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0aba59a2bb43fcd7",
+        "id": "22e2dedc0f2a0e10",
         "type": "tabs",
         "children": [
           {
-            "id": "7f93ac3021aea019",
+            "id": "bc3481bf0856dbed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Y1S1/Mathematics/Contents.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Contents"
             }
           }
         ]
@@ -157,12 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Y1S1/Mathematics/Contents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Contents"
             }
           }
         ]
@@ -185,28 +190,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f93ac3021aea019",
+  "active": "bc3481bf0856dbed",
   "lastOpenFiles": [
-    "Images/Pasted image 20260112203737.png",
     "Y1S1/Electrical Principles/Contents.md",
+    "Images/Pasted image 20260112223327.png",
+    "Y1S1/Mathematics/Contents.md",
+    "Y1S1/Mathematics/Week 7/Complex Numbers.md",
+    "Y1S1/Mathematics/Week 8/Inverse & System Of Equations.md",
+    "Excalidraw/PointCharge2.md",
+    "Excalidraw/Cramers.excalidraw.md",
+    "Excalidraw/Untitled.md",
+    "Images/Pasted image 20260112230213.png",
+    "Images/Pasted image 20260112230207.png",
+    "Images/Pasted image 20260112230200.png",
+    "Images/Pasted image 20260112225947.png",
+    "Images/Pasted image 20260112225928.png",
+    "Images/Pasted image 20260112225916.png",
+    "Images/Pasted image 20260112225913.png",
+    "Images/Pasted image 20260112225844.png",
+    "Images/Pasted image 20260112225833.png",
+    "Excalidraw/Cofactors.excalidraw.md",
+    "Y1S1/Mathematics/Week 8/Determinants.md",
+    "Excalidraw/Determinant.excalidraw.md",
+    "Y1S1/Mathematics/Week 8/Matrices.md",
+    "Y1S1/Mathematics/Week 6/Vectors.md",
     "Y1S1/Electrical Principles/Week 11/19. Transformers & 3 Phase Power Systems.md",
     "Y1S1/Electrical Principles/Week 10/17. Power In AC Circuits.md",
-    "Images/Pasted image 20260112221614.png",
-    "Images/Pasted image 20260112221524.png",
-    "Images/Pasted image 20260112221346.png",
-    "Images/Pasted image 20260112220959.png",
-    "Images/Pasted image 20260112220925.png",
-    "Images/Pasted image 20260112220917.png",
-    "Images/Pasted image 20260112220804.png",
-    "Images/Pasted image 20260112220737.png",
-    "Images/Pasted image 20260112220649.png",
-    "Images/Pasted image 20260112220623.png",
     "Y1S1/Electrical Principles/Week 8/14. EM Induction.md",
     "Excalidraw/Cast Diagram.md",
     "Excalidraw/Drawing 2026-01-08 04.28.37.excalidraw.md",
-    "Y1S1/Mathematics/Contents.md",
-    "Y1S1/Mathematics/Week 7/Complex Numbers.md",
-    "Y1S1/Mathematics/Week 6/Vectors.md",
     "Y1S1/Electrical Principles/Week 9/15. Reactive Circuits.md",
     "Y1S1/Electrical Principles/Week 8/13. Capacitors.md",
     "README.md",
@@ -215,14 +227,6 @@
     "Y1S1/Electrical Principles/Week 7/12. AC Normalized Power, Energy & RMS Value.md",
     "Y1S1/Electrical Principles/Week 5/9. Mesh Analysis.md",
     "Y1S1/Electrical Principles/Week 7/11. AC Signal Period, Frequency, Phase & Mean Value.md",
-    "Y1S1/Electrical Principles/Week 5/10. Nodal Analysis.md",
-    "Excalidraw/MeshAnalysisKVL2.excalidraw.md",
-    "Excalidraw/MeshAnalysisKVL1.excalidraw.md",
-    "Excalidraw/Determinant.excalidraw.md",
-    "Excalidraw/Adjoint.excalidraw.md",
-    "Excalidraw/Cofactors.excalidraw.md",
-    "Y1S1/Mathematics/Week 4/Integration.md",
-    "Y1S1/Electrical Principles/Week 3/6. Parallel Circuits, Conductance, KCL & Loading Effects.md",
     "Y1S1/Electrical Principles/Week 11",
     "Y1S1/Electrical Principles/Week 10",
     "Y1S1/Electrical Principles/Week 9",
