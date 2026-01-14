@@ -49,4 +49,6 @@ $$
 Decomposition in partial fractions of the rational function $$f(x)=\frac{P(x)}{Q(x)}$$
 depends on the factorisation of $Q(x)$
 
+## Pic
+
 ![[Pasted image 20251230014235.png]]

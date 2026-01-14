@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "22e2dedc0f2a0e10",
+        "id": "7301008ac798a23e",
         "type": "tabs",
         "children": [
           {
-            "id": "bc3481bf0856dbed",
+            "id": "0306a3a0322372b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y1S1/Mathematics/Contents.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Contents"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reduce and return",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,20 +157,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y1S1/Mathematics/Contents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Contents"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 370.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,43 +185,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bc3481bf0856dbed",
+  "active": "0306a3a0322372b5",
   "lastOpenFiles": [
-    "Y1S1/Electrical Principles/Contents.md",
-    "Images/Pasted image 20260112223327.png",
+    "Images/Pasted image 20260114005612.png",
+    "Y1S1/Mathematics/Week 10/Laplace Transforms.md",
     "Y1S1/Mathematics/Contents.md",
+    "Y1S1/Mathematics/Week 9/Auxiliary Equation.md",
+    "Y1S1/Mathematics/Week 2/Logs & Exponentials.md",
     "Y1S1/Mathematics/Week 7/Complex Numbers.md",
-    "Y1S1/Mathematics/Week 8/Inverse & System Of Equations.md",
-    "Excalidraw/PointCharge2.md",
-    "Excalidraw/Cramers.excalidraw.md",
-    "Excalidraw/Untitled.md",
-    "Images/Pasted image 20260112230213.png",
-    "Images/Pasted image 20260112230207.png",
-    "Images/Pasted image 20260112230200.png",
-    "Images/Pasted image 20260112225947.png",
-    "Images/Pasted image 20260112225928.png",
-    "Images/Pasted image 20260112225916.png",
-    "Images/Pasted image 20260112225913.png",
-    "Images/Pasted image 20260112225844.png",
-    "Images/Pasted image 20260112225833.png",
-    "Excalidraw/Cofactors.excalidraw.md",
-    "Y1S1/Mathematics/Week 8/Determinants.md",
-    "Excalidraw/Determinant.excalidraw.md",
+    "Images/Pasted image 20260114034623.png",
+    "Images/Pasted image 20260114034619.png",
+    "Images/Pasted image 20260114034616.png",
+    "Images/Pasted image 20260114034613.png",
+    "Images/Pasted image 20260114034609.png",
+    "Images/Pasted image 20260114034606.png",
+    "Images/Pasted image 20260114034602.png",
+    "Images/Pasted image 20260114034559.png",
+    "Images/Pasted image 20260114034555.png",
+    "Images/Pasted image 20260114034533.png",
     "Y1S1/Mathematics/Week 8/Matrices.md",
+    "Y1S1/Mathematics/Week 8/Inverse & System Of Equations.md",
+    "Y1S1/Mathematics/Week 8/Determinants.md",
     "Y1S1/Mathematics/Week 6/Vectors.md",
-    "Y1S1/Electrical Principles/Week 11/19. Transformers & 3 Phase Power Systems.md",
-    "Y1S1/Electrical Principles/Week 10/17. Power In AC Circuits.md",
-    "Y1S1/Electrical Principles/Week 8/14. EM Induction.md",
-    "Excalidraw/Cast Diagram.md",
-    "Excalidraw/Drawing 2026-01-08 04.28.37.excalidraw.md",
-    "Y1S1/Electrical Principles/Week 9/15. Reactive Circuits.md",
-    "Y1S1/Electrical Principles/Week 8/13. Capacitors.md",
-    "README.md",
-    "Y1S1/Electrical Principles/Week 2/4. Resistance, Ohm's Law, Power & Efficiency.md",
-    "Y1S1/Electrical Principles/Week 1/2. Current, E-Field, Etcetera.md",
-    "Y1S1/Electrical Principles/Week 7/12. AC Normalized Power, Energy & RMS Value.md",
-    "Y1S1/Electrical Principles/Week 5/9. Mesh Analysis.md",
-    "Y1S1/Electrical Principles/Week 7/11. AC Signal Period, Frequency, Phase & Mean Value.md",
+    "Y1S1/Mathematics/Week 6/Maclaurin & Taylors.md",
+    "Y1S1/Mathematics/Week 5/Numerical Approximations.md",
+    "Y1S1/Mathematics/Week 4/Min Max.md",
+    "Y1S1/Mathematics/Week 3/Differentiation.md",
+    "Y1S1/Mathematics/Week 3/Trigonometry.md",
+    "Y1S1/Mathematics/Week 2/Partial Fractions.md",
+    "Y1S1/Mathematics/Week 2/Polynomials.md",
+    "Y1S1/Mathematics/Week 2/Intro To Trig.md",
+    "Y1S1/Mathematics/Week 1/Functions.md",
+    "Y1S1/Mathematics/Week 1/Quadratics.md",
+    "Y1S1/Mathematics/Week 1/Basic Algebra.md",
+    "Y1S1/Mathematics/Week 4/Integration.md",
+    "Y1S1/Mathematics/Week 9/Integrating Factor.md",
+    "Y1S1/Mathematics/Week 9/Exponential Form.md",
+    "Y1S1/Electrical Principles/Week 4/7. Voltage & Current Sources, Reduce & Return & Superposition.md",
+    "Y1S1/Electrical Principles/Contents.md",
     "Y1S1/Electrical Principles/Week 11",
     "Y1S1/Electrical Principles/Week 10",
     "Y1S1/Electrical Principles/Week 9",

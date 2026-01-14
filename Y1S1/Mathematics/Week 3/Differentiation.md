@@ -15,15 +15,16 @@ $$\begin{align*}
 \end{align*}$$
 
 # Combination Of Rules
-<h4>Sum</h4>
+## Sum
 $$\frac{d}{dx}(f+g)=\frac{df}{dx}+\frac{dg}{dx}$$
-<h4>Product Rule</h4>
+## Product Rule
 $$\frac{d}{dx}(f\cdot g)=(\frac{df}{dx})g+(\frac{dg}{dx})f$$
+
 ![[Pasted image 20251230021510.png]]
-<h4>Quotient Rule</h4>
+## Quotient Rule
 $$\frac{d}{dx}(\frac{f}{g})=\frac{1}{g^2}[(\frac{df}{dx})g - (\frac{dg}{dx})f]$$
 ![[Pasted image 20251230021357.png]]
-<h4>Chain Rule</h4>
+## Chain Rule
 $$\frac{d}{dx}[f(u(x))]=\frac{df}{du} \cdot \frac{du}{dx}$$![[Pasted image 20251230021413.png]]
 
 # Increasing / Decreasing Functions

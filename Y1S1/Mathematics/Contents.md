@@ -1,4 +1,4 @@
-# Week 1:  
+                             # Week 1:  
 - [[Basic Algebra]] 36
 - [[Functions]] 33
 - [[Quadratics]] 13
@@ -72,7 +72,12 @@
 	- [[Inverse & System Of Equations#Cramer's Rule|Cramer's Rule]]
 # Week 9:
 - [[Integrating Factor]] 19
+	- [[Integrating Factor#Generalities|Generalities]]
+	- [[Integrating Factor#Solving Equations|Solving Equations]]
+	- [[Integrating Factor#First Order Linear ODEs|First Order Linear ODEs]]
 - [[Auxiliary Equation]] 20
+	- [[Auxiliary Equation#First Order Homogeneous Linear|First Order Homogeneous Linear]]
+	- [[Auxiliary Equation#Second Order Homogeneous Linear|Second Order Homogeneous Linear]]
 # Week 10:
 - [[Laplace Transforms]] 10+7+20
 # Week 11:
@@ -80,3 +85,51 @@
 - [[Linear Regression Analysis]]
 - [[Discrete Random Variables]]
 - [[Continuous Random Variables]]
+
+To Check Up ON:
+- Integrating Factor $P(x),\ y(x),\ Q(x),\ R(x)$
+- Auxiliary Equations (1st & 2nd ODE)
+	- Different Roots
+		- $m_{1} \neq m_{2} \implies y=Ae^{m_{1}x}+Be^{m_{2}x}$
+		- $m_{1}=m_{2} \implies y=Ae^{m_{1}x}+Bxe^{m_{1}x}$
+		- $m_{1}=\alpha\pm \beta j \implies y=e^{\alpha x}(A\cos\beta x+B\sin\beta x)$
+- Integration Rules
+	- ![[Integration#Rules]]
+	- $\int \frac{1}{x}dx=\ln x+C$
+	- $\int \frac{1}{ax+b}dx=\frac{1}{\frac{d}{dx}(ax+b)}\ln(ax+b)+C$
+	- $\int e^xdx=e^x+C$
+	- $\int a^xdx=\frac{a^x}{\ln a}+C$
+	- $\int \ln x\ dx=x\ln (x)-x+C$
+	- Substitution Method 
+		- $\int 2xe^{x^2}dx$
+		- Let $t=x^2 \implies dt=2x\ dx$
+		- $\int e^t\ dt=e^t+C=e^{x^2}+C$
+- Differentiation Rules
+	- ![[Differentiation#Basic Rules]]
+	- ![[Differentiation#Combination Of Rules]]
+- Partial Fractions
+	- ![[Partial Fractions#Pic]]
+- Logs & Exponentials
+	- ![[Logs & Exponentials]]
+- Trig
+	- CAST Diagrams 
+- Polynomials
+	- ![[Polynomials]]
+- Numerical Approx
+	- ![[Numerical Approximations]]
+- Maclaurin + Taylors
+	- ![[Maclaurin & Taylors]]
+- Vectors
+	- Dot Product $a\cdot b=|a||b|\cos \theta$
+	- Cross Product $a\wedge b=|a||b|\sin \theta$
+	- Area Of Parallelogram = $|a\wedge b|$
+	- Area Of Triangle = $\frac{1}{2}|a\wedge b$
+- Complex Numbers
+	- Argand Diagrams
+	- Polar Form
+	- Exponential Form
+	- Arguments + Principle Arguments
+- Matrices
+	- Cramer's Rule
+	- Determinants Of 2x2 & 3x3
+	- Minor + Cofactors + Adjoint
