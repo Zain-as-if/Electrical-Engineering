@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c13d3a914a6e4ed",
+        "id": "8379426302e9826c",
         "type": "tabs",
         "children": [
           {
-            "id": "6779a326b6d3fa9b",
+            "id": "ab804be872e95652",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -69,8 +69,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "8506c405d76d6c13",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,23 +192,27 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "70c4a06e694e310d",
+  "active": "ab804be872e95652",
   "lastOpenFiles": [
-    "Y1S2/Programming/Lab Notes/Week 4/exercise_4.cpp",
-    "Y1S2/Programming/Lab Notes/Week 4/exercise_3.cpp",
-    "Y1S2/Programming/Lab Notes/Week 4/exercise_2.cpp",
-    "Y1S2/Programming/Lab Notes/Week 4/exercise_1.cpp",
-    "Y1S2/Programming/Lab Notes/Week 4/a.out",
-    "Y1S2/Programming/Lab Notes/Week 4/pi.cpp",
     "README.md",
-    "Y1S2/Professional_Development/MATLAB/Week 6/Fundamentals_2/vector.m",
-    "Y1S2/Professional_Development/MATLAB/Week 6/Fundamentals_2/data_types.m",
-    "Y1S2/Professional_Development/MATLAB/Week 6/Fundamentals_2/Exercise2_6.m",
-    "Y1S2/Professional_Development/MATLAB/Week 6/Fundamentals_2/Exercise2_5.m",
-    "Y1S2/Professional_Development/MATLAB/Week 6/Fundamentals_2/Exercise2_4.m",
+    "Vault.md",
+    "Untitled.canvas",
+    "Y1S1/Y1S1.md",
+    "Tags",
+    "Untitled.base",
+    "Y1S2/Programming/Lab Notes/Week 5/exercise_3.cpp",
+    "Y1S2/Programming/Lab Notes/Week 5/exercise_4.cpp",
+    "Y1S2/Programming/Lab Notes/Week 5/exercise_2.cpp",
+    "Y1S2/Programming/Lab Notes/Week 5/exercise_5.cpp",
+    "Y1S2/Programming/Lab Notes/Week 5/exercise_1.cpp",
+    "Y1S2/Programming/Lab Notes/Week 5/a.out",
+    "Y1S2/Programming/Lab Notes/Week 5",
+    "Y1S2/Programming/Lab Notes/Week 4/pi.cpp",
     "Y1S2/Professional_Development/Contents.md",
     "Y1S1/Electrical Principles/Contents.md",
     "Y1S2/Contents.md",
@@ -229,8 +244,6 @@
     "Y1S1/Mathematics/Week 2/Polynomials.md",
     "Y1S1/Mathematics/Week 2/Intro To Trig.md",
     "Y1S1/Mathematics/Week 1/Functions.md",
-    "Y1S1/Mathematics/Week 1/Quadratics.md",
-    "Y1S1/Mathematics/Week 1/Basic Algebra.md",
-    "Y1S1/Mathematics/Week 4/Integration.md"
+    "Y1S1/Mathematics/Week 1/Quadratics.md"
   ]
 }
