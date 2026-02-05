@@ -1,7 +1,22 @@
 {
     "configurations": [
         {
-            "name": "Win32",
+            "name": "windows-gcc-x64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/conio.h"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "${default}",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "windows-gcc-x64"
+        },
+        {
+            "name": "g++",
             "includePath": [
                 "${workspaceFolder}/**"
             ],
@@ -10,10 +25,9 @@
                 "UNICODE",
                 "_UNICODE"
             ],
+            "windowsSdkVersion": "10.0.26100.0",
             "cStandard": "c17",
-            "cppStandard": "gnu++17",
-            "intelliSenseMode": "windows-gcc-x64",
-            "compilerPath": "C:/msys64/ucrt64/bin/g++.exe"
+            "intelliSenseMode": "windows-msvc-x64"
         }
     ],
     "version": 4
