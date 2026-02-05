@@ -10,5 +10,8 @@
   "supsub",
   "obsidian-underline",
   "make-md",
-  "omnisearch"
+  "omnisearch",
+  "ai-image-analyzer",
+  "text-extractor",
+  "obsidian-icon-folder"
 ]

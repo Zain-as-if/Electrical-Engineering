@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8379426302e9826c",
+        "id": "58d94c1adc3b0a2e",
         "type": "tabs",
         "children": [
           {
-            "id": "ab804be872e95652",
+            "id": "f5b32c54be7e6faa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "8506c405d76d6c13",
+            "id": "a2d4022b2e6d8f66",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -197,14 +197,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ab804be872e95652",
+  "active": "f5b32c54be7e6faa",
   "lastOpenFiles": [
-    "README.md",
+    "Excalidraw/Drawing 2026-02-05 12.26.10.excalidraw.md",
     "Vault.md",
-    "Untitled.canvas",
-    "Y1S1/Y1S1.md",
-    "Tags",
     "Untitled.base",
+    "Y1S1/Y1S1.md",
+    "Images/Images.md",
+    "README.md",
+    "Untitled.canvas",
+    "Tags",
     "Y1S2/Programming/Lab Notes/Week 5/exercise_3.cpp",
     "Y1S2/Programming/Lab Notes/Week 5/exercise_4.cpp",
     "Y1S2/Programming/Lab Notes/Week 5/exercise_2.cpp",
@@ -242,8 +244,6 @@
     "Y1S1/Mathematics/Week 3/Trigonometry.md",
     "Y1S1/Mathematics/Week 2/Partial Fractions.md",
     "Y1S1/Mathematics/Week 2/Polynomials.md",
-    "Y1S1/Mathematics/Week 2/Intro To Trig.md",
-    "Y1S1/Mathematics/Week 1/Functions.md",
-    "Y1S1/Mathematics/Week 1/Quadratics.md"
+    "Y1S1/Mathematics/Week 2/Intro To Trig.md"
   ]
 }

@@ -38,15 +38,10 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "Y1S2/Programming/Lab Notes/Week 5",
-    "//Y1S1/Y1S1/Electrical Design",
-    "//Y1S1/Y1S1/Mathematics",
     "//Electrical Principles",
-    "//Y1S2",
-    "//Y1S2/Y1S2/Programming",
-    "//Y1S2/Y1S2/Programming/Y1S2/Programming/Lab Notes",
-    "//Y1S2/Y1S2/Programming/Y1S2/Programming/Lab Notes/Y1S2/Programming/Lab Notes/Week 5"
+    "//Y1S1/Y1S1/Mathematics",
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
