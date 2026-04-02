@@ -11,10 +11,12 @@
             "id": "6779a326b6d3fa9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
         ]
@@ -185,7 +187,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70c4a06e694e310d",
+  "active": "6779a326b6d3fa9b",
   "lastOpenFiles": [
     "Y1S2/Programming/Lab Notes/Week 4/exercise_4.cpp",
     "Y1S2/Programming/Lab Notes/Week 4/exercise_3.cpp",
