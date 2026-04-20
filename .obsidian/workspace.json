@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "58d94c1adc3b0a2e",
+        "id": "7c13d3a914a6e4ed",
         "type": "tabs",
         "children": [
           {
-            "id": "f5b32c54be7e6faa",
+            "id": "6779a326b6d3fa9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Y1S2/Programming/CWK/CFS2155 2526 Design Report Template - Tagged.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CFS2155 2526 Design Report Template - Tagged"
             }
           }
         ]
@@ -69,19 +71,8 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "a2d4022b2e6d8f66",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,12 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Y1S2/Programming/CWK/CFS2155 2526 Design Report Template - Tagged.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CFS2155 2526 Design Report Template - Tagged"
             }
           }
         ]
@@ -184,6 +176,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -192,29 +185,27 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f5b32c54be7e6faa",
+  "active": "6779a326b6d3fa9b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-02-05 12.26.10.excalidraw.md",
-    "Vault.md",
-    "Untitled.base",
-    "Y1S1/Y1S1.md",
-    "Images/Images.md",
+    "Y1S2/Programming/CWK/CFS2155 2526 Assignment Brief - Tagged.pdf",
+    "Y1S2/Programming/CWK/CFS2155 2526 Design Report Template - Tagged.pdf",
+    "Y1S2/Programming/CWK/CFS2155 2526 Design Report Template.docx",
+    "~$S2155 2526 HUD 02 Coding Project Brief.docx",
+    "CFS2155 2526 HUD 02 Coding Project Brief.docx",
+    "Y1S2/Programming/CWK",
+    "conflict-files-obsidian-git.md",
     "README.md",
-    "Untitled.canvas",
-    "Tags",
-    "Y1S2/Programming/Lab Notes/Week 5/exercise_3.cpp",
-    "Y1S2/Programming/Lab Notes/Week 5/exercise_4.cpp",
-    "Y1S2/Programming/Lab Notes/Week 5/exercise_2.cpp",
-    "Y1S2/Programming/Lab Notes/Week 5/exercise_5.cpp",
-    "Y1S2/Programming/Lab Notes/Week 5/exercise_1.cpp",
-    "Y1S2/Programming/Lab Notes/Week 5/a.out",
-    "Y1S2/Programming/Lab Notes/Week 5",
-    "Y1S2/Programming/Lab Notes/Week 4/pi.cpp",
+    "Untitled.base",
+    "Y1S2/Programming/Lab Notes/Week 8/exercise_3.cpp",
+    "Y1S2/Programming/Lab Notes/Week 8/exercise_2.cpp",
+    "Y1S2/Programming/Lab Notes/Week 8/exercise_1.cpp",
+    "Y1S2/Programming/Lab Notes/Week 8/a.out",
+    "Y1S1/Y1S1.md",
+    "Vault.md",
+    "Images/Images.md",
     "Y1S2/Professional_Development/Contents.md",
     "Y1S1/Electrical Principles/Contents.md",
     "Y1S2/Contents.md",
