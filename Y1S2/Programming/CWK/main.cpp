@@ -1,8 +1,8 @@
 #include <iostream>
 #include <fstream>
-
 using namespace std;
 
+// Function declaration
 void bubbleSort(double *numberArray, int size);
 double calculateMean(double *numberArray, int size);
 double calculateMode(double *numberArray, int size);
@@ -14,7 +14,6 @@ int main(void) {
   char exportFilename[20];
   const int MAX_SIZE = 10000;
   double numberArray[MAX_SIZE];
-  // number list information
   int size = 0;
   double minimum, maximum, mean, mode, median;
 
@@ -22,8 +21,8 @@ int main(void) {
   cout << "Enter filename: ";
   cin >> inputFilename;
 
+  // opens file with name provided, read-only
   fstream inputFile;
-  // Opens file with name provided, read-only
   inputFile.open(inputFilename, ios::in);
 
   // error handling
@@ -38,14 +37,16 @@ int main(void) {
     size++;
   }
 
+  // closes file 
   inputFile.close();
 
-  // call bubbleSort function
+  // call functions 
   bubbleSort(numberArray, size);
   mean = calculateMean(numberArray, size);
   median = calculateMedian(numberArray, size);
   mode = calculateMode(numberArray, size);
 
+  // display info
   cout << "--- Info ---" << endl;
   cout << "Length: " << size << endl;
   cout << "Mean: " << mean << endl;
@@ -58,18 +59,20 @@ int main(void) {
   cout << "Minimum: " << numberArray[0] << endl;
   cout << "Maximum: " << numberArray[size-1] << endl;
 
+  // asks user for sorted array file
   cout << endl << "Enter the name of the file you want the sorted data: ";
   cin >> exportFilename;
 
   fstream exportFile;
-
   exportFile.open(exportFilename, ios::out);
 
+  // writes to file
   for (int i = 0; i < size; i++) {
     exportFile << numberArray[i];
     exportFile << " ";
   }
 
+  // closes file 
   exportFile.close();
 
   cout << "File: " << exportFilename << " has been written to.";
@@ -96,6 +99,8 @@ void bubbleSort(double *numberArray, int size) {
 
 double calculateMean(double *numberArray, int size) {
   double sum = 0;
+
+  // cumulative total
   for (int i = 0; i < size; i++) {
     sum += numberArray[i]; 
   }
