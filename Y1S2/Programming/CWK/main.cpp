@@ -5,7 +5,7 @@ using namespace std;
 // Function declaration
 void bubbleSort(double *numberArray, int size);
 double calculateMean(double *numberArray, int size);
-double calculateMode(double *numberArray, int size);
+bool calculateMode(double *numberArray, int size, double &mode);
 double calculateMedian(double *numberArray, int size);
 
 int main(void) {
@@ -18,7 +18,7 @@ int main(void) {
   double minimum, maximum, mean, mode, median;
 
   // user input for filename
-  cout << "Enter filename: ";
+  cout << "Enter filename (limit 20 characters): ";
   cin >> inputFilename;
 
   // opens file with name provided, read-only
@@ -37,6 +37,16 @@ int main(void) {
     size++;
   }
 
+  // checks if file is empty or not
+  if (size == 0) {
+    cout << "Error: File is empty or containts no valid data." << endl;
+    return 1;
+  }
+
+  if (size >= MAX_SIZE) {
+    cout << "Warning: Maximum data size reached (size = 10000), some data may be ignored." << endl;
+  }
+
   // closes file 
   inputFile.close();
 
@@ -44,27 +54,32 @@ int main(void) {
   bubbleSort(numberArray, size);
   mean = calculateMean(numberArray, size);
   median = calculateMedian(numberArray, size);
-  mode = calculateMode(numberArray, size);
+  bool foundMode = calculateMode(numberArray, size, mode);
 
   // display info
   cout << "--- Info ---" << endl;
   cout << "Length: " << size << endl;
   cout << "Mean: " << mean << endl;
   cout << "Median: " << median << endl;
-  if (mode == -1) {
-    cout << "Mode: N/A" << endl;
-  } else {
+  if (foundMode) {
     cout << "Mode: " << mode << endl;
+  } else {
+    cout << "Mode: N/A (No repeated values)" << endl;
   }
   cout << "Minimum: " << numberArray[0] << endl;
   cout << "Maximum: " << numberArray[size-1] << endl;
 
   // asks user for sorted array file
-  cout << endl << "Enter the name of the file you want the sorted data: ";
+  cout << endl << "Enter the name of the file you want the sorted data (limit 20 characters): ";
   cin >> exportFilename;
 
   fstream exportFile;
   exportFile.open(exportFilename, ios::out);
+
+  if (!exportFile) {
+    cout << "Error: Couldn't create output file." << endl;
+    return 1;
+  }
 
   // writes to file
   for (int i = 0; i < size; i++) {
@@ -100,6 +115,12 @@ void bubbleSort(double *numberArray, int size) {
 double calculateMean(double *numberArray, int size) {
   double sum = 0;
 
+  // checks if size is = 0 so no division by zero
+  // shouldn't run as above error handling for empty file opening
+  if (size == 0) {
+    return 1;
+  }
+
   // cumulative total
   for (int i = 0; i < size; i++) {
     sum += numberArray[i]; 
@@ -108,10 +129,11 @@ double calculateMean(double *numberArray, int size) {
   return sum / size;
 }
 
-double calculateMode(double *numberArray, int size) {
+
+bool calculateMode(double *numberArray, int size, double &mode) {
   int maxCount = 1;
   int count = 1;
-  double mode = numberArray[0];
+  mode = numberArray[0];
 
   for (int i = 1; i < size; i++) {
     if (numberArray[i] == numberArray[i-1]) {
@@ -126,12 +148,12 @@ double calculateMode(double *numberArray, int size) {
     }
   }
 
-  // if there is no mode set mode to be -1
+  // if there is no mode returns false which will then output no mode in main 
   if (maxCount == 1) {
-    mode = -1;
+    return false;
   }
-
-  return mode;
+  
+  return true;
 }
 
 double calculateMedian(double *numberArray, int size) {
