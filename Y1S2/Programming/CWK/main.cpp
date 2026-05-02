@@ -5,7 +5,7 @@ using namespace std;
 // Function declaration
 void bubbleSort(double *numberArray, int size);
 double calculateMean(double *numberArray, int size);
-bool calculateMode(double *numberArray, int size, double &mode);
+bool calculateMode(double *numberArray, int size, double *modes, int &modeCount);
 double calculateMedian(double *numberArray, int size);
 
 int main(void) {
@@ -14,6 +14,8 @@ int main(void) {
   char exportFilename[20];
   const int MAX_SIZE = 10000;
   double numberArray[MAX_SIZE];
+  double modes[MAX_SIZE];
+  int modeCount = 0;
   int size = 0;
   double minimum, maximum, mean, mode, median;
 
@@ -27,7 +29,7 @@ int main(void) {
 
   // error handling
   if (!inputFile) {
-    cout << "Error: Could not open file.\n";
+    cerr << "Error: Could not open file.\n";
     return 1;
   }
 
@@ -39,7 +41,7 @@ int main(void) {
 
   // checks if file is empty or not
   if (size == 0) {
-    cout << "Error: File is empty or containts no valid data." << endl;
+    cerr << "Error: File is empty or containts no valid data." << endl;
     return 1;
   }
 
@@ -54,7 +56,7 @@ int main(void) {
   bubbleSort(numberArray, size);
   mean = calculateMean(numberArray, size);
   median = calculateMedian(numberArray, size);
-  bool foundMode = calculateMode(numberArray, size, mode);
+  bool foundMode = calculateMode(numberArray, size, modes, modeCount);
 
   // display info
   cout << "--- Info ---" << endl;
@@ -62,7 +64,14 @@ int main(void) {
   cout << "Mean: " << mean << endl;
   cout << "Median: " << median << endl;
   if (foundMode) {
-    cout << "Mode: " << mode << endl;
+    cout << "Mode: "; 
+    for (int i = 0; i < modeCount; i++) {
+      cout << modes[i];
+      if (i < modeCount - 1) {
+        cout << ", ";
+      }
+    }
+    cout << endl;
   } else {
     cout << "Mode: N/A (No repeated values)" << endl;
   }
@@ -77,7 +86,7 @@ int main(void) {
   exportFile.open(exportFilename, ios::out);
 
   if (!exportFile) {
-    cout << "Error: Couldn't create output file." << endl;
+    cerr << "Error: Couldn't create output file." << endl;
     return 1;
   }
 
@@ -130,10 +139,12 @@ double calculateMean(double *numberArray, int size) {
 }
 
 
-bool calculateMode(double *numberArray, int size, double &mode) {
+bool calculateMode(double *numberArray, int size, double *modes, int &modeCount) {
   int maxCount = 1;
   int count = 1;
-  mode = numberArray[0];
+
+  modeCount = 0;
+  modes[modeCount++] = numberArray[0];
 
   for (int i = 1; i < size; i++) {
     if (numberArray[i] == numberArray[i-1]) {
@@ -142,14 +153,21 @@ bool calculateMode(double *numberArray, int size, double &mode) {
       count = 1;
     }   
     
-    if (count >= maxCount) {
+    if (count > maxCount) {
       maxCount = count;
-      mode = numberArray[i];
+      modeCount = 0;
+      modes[modeCount++] = numberArray[i];
+    } else if (count == maxCount) {
+      // avoids duplicates if number is found with equal frequency
+      if (modeCount == 0 || modes[modeCount - 1] != numberArray[i]) {
+        modes[modeCount++] = numberArray[i];
+      }
     }
   }
 
   // if there is no mode returns false which will then output no mode in main 
   if (maxCount == 1) {
+    modeCount = 0;
     return false;
   }
   
