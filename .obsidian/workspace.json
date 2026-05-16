@@ -11,12 +11,14 @@
             "id": "f5b32c54be7e6faa",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Y1S2/Programming"
+                "file": "Y1S2/Electronics/Week 02.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Programming"
+              "title": "Week 02"
             }
           }
         ]
@@ -170,20 +172,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Y1S2/Electronics/Week 02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Week 02"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +202,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "593376fbced75cef",
+  "active": "f5b32c54be7e6faa",
   "lastOpenFiles": [
+    "Images/Pasted image 20260516204458.png",
+    "Y1S2/Electronics/Week 02.md",
+    "Images/Pasted image 20260516214128.png",
+    "Images/Pasted image 20260516213919.png",
+    "Images/Pasted image 20260516213910.png",
+    "Images/Pasted image 20260516213502.png",
+    "Images/Pasted image 20260516213453.png",
+    "Images/Pasted image 20260516213443.png",
+    "Images/Pasted image 20260516213125.png",
+    "Images/Pasted image 20260516213117.png",
+    "Images/Pasted image 20260516212838.png",
+    "Images/Pasted image 20260516212736.png",
+    "Y1S1/Mathematics/Week 2/Polynomials.md",
+    "Y1S1/Y1S1.md",
+    "Y1S2/Electronics/Week 01.md",
+    "Y1S2/Electronics/Electronics.md",
+    "Y1S2/Electronics",
     "conflict-files-obsidian-git.md",
     "Y1S2/Programming/Lab Notes/Week 12/exercise_3.cpp",
     "Y1S2/Programming/Lab Notes/Week 12/exercise_2.cpp",
@@ -212,42 +231,25 @@
     "Y1S2/Programming/Lab Notes/Week 11/names.txt",
     "Y1S2/Programming/Lab Notes/Week 11/Fibonacci.txt",
     "Y1S2/Programming/Lab Notes/Week 11/exercise_4.cpp",
-    "Y1S2/Programming/Lab Notes/Week 11/exercise_3.cpp",
     "Images/Images.md",
     "Excalidraw/Drawing 2026-02-05 12.26.10.excalidraw.md",
     "Vault.md",
-    "Y1S1/Y1S1.md",
     "README.md",
     "Untitled.canvas",
     "Y1S2/Professional_Development/Contents.md",
     "Y1S1/Electrical Principles/Contents.md",
     "Y1S2/Contents.md",
     "Y1S1/Mathematics/Contents.md",
-    "Images/Pasted image 20260114005612.png",
     "Y1S1/Mathematics/Week 10/Laplace Transforms.md",
     "Y1S1/Mathematics/Week 9/Auxiliary Equation.md",
     "Y1S1/Mathematics/Week 2/Logs & Exponentials.md",
     "Y1S1/Mathematics/Week 7/Complex Numbers.md",
-    "Images/Pasted image 20260114034623.png",
-    "Images/Pasted image 20260114034619.png",
-    "Images/Pasted image 20260114034616.png",
-    "Images/Pasted image 20260114034613.png",
-    "Images/Pasted image 20260114034609.png",
-    "Images/Pasted image 20260114034606.png",
-    "Images/Pasted image 20260114034602.png",
-    "Images/Pasted image 20260114034559.png",
-    "Images/Pasted image 20260114034555.png",
     "Y1S1/Mathematics/Week 8/Matrices.md",
     "Y1S1/Mathematics/Week 8/Inverse & System Of Equations.md",
     "Y1S1/Mathematics/Week 8/Determinants.md",
     "Y1S1/Mathematics/Week 6/Vectors.md",
     "Y1S1/Mathematics/Week 6/Maclaurin & Taylors.md",
     "Y1S1/Mathematics/Week 5/Numerical Approximations.md",
-    "Y1S1/Mathematics/Week 4/Min Max.md",
-    "Y1S1/Mathematics/Week 3/Differentiation.md",
-    "Y1S1/Mathematics/Week 3/Trigonometry.md",
-    "Y1S1/Mathematics/Week 2/Partial Fractions.md",
-    "Y1S1/Mathematics/Week 2/Polynomials.md",
-    "Y1S1/Mathematics/Week 2/Intro To Trig.md"
+    "Y1S1/Mathematics/Week 4/Min Max.md"
   ]
 }
