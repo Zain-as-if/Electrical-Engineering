@@ -170,12 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           }
         ]
@@ -199,24 +200,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f5b32c54be7e6faa",
+  "active": "593376fbced75cef",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Y1S2/Programming/Lab Notes/Week 12/exercise_3.cpp",
+    "Y1S2/Programming/Lab Notes/Week 12/exercise_2.cpp",
+    "Y1S2/Programming/Lab Notes/Week 12/exercise_4.cpp",
+    "Y1S2/Programming/Lab Notes/Week 12/exercise_1.cpp",
+    "Y1S2/Programming/Lab Notes/Week 12/a.out",
+    "Y1S2/Programming/Lab Notes/Week 12",
+    "Y1S2/Programming/Lab Notes/Week 11/names.txt",
+    "Y1S2/Programming/Lab Notes/Week 11/Fibonacci.txt",
+    "Y1S2/Programming/Lab Notes/Week 11/exercise_4.cpp",
+    "Y1S2/Programming/Lab Notes/Week 11/exercise_3.cpp",
     "Images/Images.md",
-    "Untitled.base",
     "Excalidraw/Drawing 2026-02-05 12.26.10.excalidraw.md",
     "Vault.md",
     "Y1S1/Y1S1.md",
     "README.md",
     "Untitled.canvas",
-    "Tags",
-    "Y1S2/Programming/Lab Notes/Week 5/exercise_3.cpp",
-    "Y1S2/Programming/Lab Notes/Week 5/exercise_4.cpp",
-    "Y1S2/Programming/Lab Notes/Week 5/exercise_2.cpp",
-    "Y1S2/Programming/Lab Notes/Week 5/exercise_5.cpp",
-    "Y1S2/Programming/Lab Notes/Week 5/exercise_1.cpp",
-    "Y1S2/Programming/Lab Notes/Week 5/a.out",
-    "Y1S2/Programming/Lab Notes/Week 5",
-    "Y1S2/Programming/Lab Notes/Week 4/pi.cpp",
     "Y1S2/Professional_Development/Contents.md",
     "Y1S1/Electrical Principles/Contents.md",
     "Y1S2/Contents.md",
