@@ -11,10 +11,12 @@
             "id": "f5b32c54be7e6faa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "mk-space",
+              "state": {
+                "path": "Y1S2/Programming"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Programming"
             }
           }
         ]
@@ -71,7 +73,7 @@
             }
           },
           {
-            "id": "a2d4022b2e6d8f66",
+            "id": "ef59f749ff5f6b4c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -199,11 +201,11 @@
   },
   "active": "f5b32c54be7e6faa",
   "lastOpenFiles": [
+    "Images/Images.md",
+    "Untitled.base",
     "Excalidraw/Drawing 2026-02-05 12.26.10.excalidraw.md",
     "Vault.md",
-    "Untitled.base",
     "Y1S1/Y1S1.md",
-    "Images/Images.md",
     "README.md",
     "Untitled.canvas",
     "Tags",
