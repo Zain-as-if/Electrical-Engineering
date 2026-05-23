@@ -43,7 +43,8 @@
     "//Y1S1/Y1S1/Electrical Design",
     "//Y1S1/Y1S1/Electrical Principles",
     "//Y1S1/Y1S1/Mathematics",
-    "//Y1S1/Y1S1/Mathematics/Y1S1/Mathematics/Week 2"
+    "//Y1S2/Y1S2/Electronics",
+    "//Y1S1"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -55,8 +56,6 @@
     "_assets",
     "_blocks"
   ],
-  "newFileLocation": "root",
-  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
@@ -75,11 +74,11 @@
   "indexSVG": false,
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
-  "releaseNotesPrompt": 0.8,
+  "releaseNotesPrompt": 0.999,
   "enableDefaultSpaces": true,
   "showSpacePinIcon": true,
   "experimental": false,
-  "systemName": "Vault",
+  "systemName": "Electrical-Engineering",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100,
@@ -106,7 +105,7 @@
     "emojiTriggerChar": ":",
     "flowState": false
   },
-  "firstLaunch": false,
+  "firstLaunch": true,
   "notesPreview": false,
   "editStickerInSidebar": true,
   "overrideNativeMenu": false,

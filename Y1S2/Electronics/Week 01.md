@@ -15,13 +15,13 @@ Digital electronics involves circuits & systems in which there are only 2 possib
 ![[Pasted image 20260516204458.png]]
 ![[Pasted image 20260516204602.png]]![[Pasted image 20260516204618.png]]
 
-## Gray Codes
+# Gray Codes
 
 Has the property that only 1-bit changes from one code to the next
 
 Gray codes used in construction of Karnaugh maps, i.e. codes for adjacent elements varied in only one variable
 
-Used in numerous applications where changing quantities are to be read e.g. rotating motor where the angular position is measured. D
+Used in numerous applications where changing quantities are to be read e.g. rotating motor where the angular position is measured. 
 
 ![[Pasted image 20260516204814.png]]
 
@@ -81,7 +81,7 @@ Each row in which output is '0' is called maxterm
 
 Generate expression for each maxterm and then AND these maxterms to determine logic circuit
 
-Maxterms in example are A+B+C, A+B'+C, A'+B+C', A'+B'+C and A'+B'+C'
+Maxterms in example are A+B+C, A+B'+C', A'+B+C', A'+B'+C and A'+B'+C'
 
 Expression is in product of sums form
 Hence S = (A + B + C) . (A + B' + C') . (A' + B + C) . (A' + B' + C') . (A' + B + C') 
