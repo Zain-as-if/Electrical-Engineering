@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7c13d3a914a6e4ed",
+        "id": "f3e28b85a45b2e47",
         "type": "tabs",
         "children": [
           {
-            "id": "6779a326b6d3fa9b",
+            "id": "01f6610675f7a5c3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Y1S2/Programming/CWK/CFS2155 2526 Design Report Template - Tagged.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CFS2155 2526 Design Report Template - Tagged"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -71,8 +69,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "fa871a98cb8da194",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,13 +168,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y1S2/Programming/CWK/CFS2155 2526 Design Report Template - Tagged.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CFS2155 2526 Design Report Template - Tagged"
+              "title": "Outline"
             }
           }
         ]
@@ -176,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -188,8 +197,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6779a326b6d3fa9b",
+  "active": "01f6610675f7a5c3",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md",
+    "Tags",
     "Y1S2/Programming/CWK/CFS2155 2526 Assignment Brief - Tagged.pdf",
     "Y1S2/Programming/CWK/CFS2155 2526 Design Report Template - Tagged.pdf",
     "Y1S2/Programming/CWK/CFS2155 2526 Design Report Template.docx",
@@ -201,8 +213,6 @@
     "Untitled.base",
     "Y1S2/Programming/Lab Notes/Week 8/exercise_3.cpp",
     "Y1S2/Programming/Lab Notes/Week 8/exercise_2.cpp",
-    "Y1S2/Programming/Lab Notes/Week 8/exercise_1.cpp",
-    "Y1S2/Programming/Lab Notes/Week 8/a.out",
     "Y1S1/Y1S1.md",
     "Vault.md",
     "Images/Images.md",
@@ -234,7 +244,6 @@
     "Y1S1/Mathematics/Week 3/Differentiation.md",
     "Y1S1/Mathematics/Week 3/Trigonometry.md",
     "Y1S1/Mathematics/Week 2/Partial Fractions.md",
-    "Y1S1/Mathematics/Week 2/Polynomials.md",
-    "Y1S1/Mathematics/Week 2/Intro To Trig.md"
+    "Y1S1/Mathematics/Week 2/Polynomials.md"
   ]
 }
