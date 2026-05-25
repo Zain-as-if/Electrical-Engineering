@@ -38,20 +38,17 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-<<<<<<< HEAD
-    "Y1S2/Programming/Lab Notes/Week 5",
-    "//Electrical Principles",
-    "//Y1S1/Y1S1/Mathematics",
-    "/"
-=======
     "/",
     "//Y1S2",
-    "//Y1S1/Y1S1/Electrical Design",
-    "//Y1S1/Y1S1/Electrical Principles",
-    "//Y1S1/Y1S1/Mathematics",
     "//Y1S2/Y1S2/Electronics",
-    "//Y1S1"
->>>>>>> origin/main
+    "//Y1S2/Y1S2/Electronics/Y1S2/Electronics/Week 1",
+    "//Y1S2/Y1S2/Electronics/Y1S2/Electronics/Week 10",
+    "//Y1S2/Y1S2/Electronics/Y1S2/Electronics/Week 11",
+    "//Y1S2/Y1S2/Electronics/Y1S2/Electronics/Week 2",
+    "//Y1S2/Y1S2/Professional_Development",
+    "//Y1S2/Y1S2/Programming/Y1S2/Programming/Lab Notes/Y1S2/Programming/Lab Notes/Week 9",
+    "//Y1S2/Y1S2/Programming/Y1S2/Programming/Lab Notes",
+    "//Y1S2/Y1S2/Professional_Development/Y1S2/Professional_Development/MATLAB"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -63,14 +60,12 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-<<<<<<< HEAD
-  "inlineContextExpanded": false,
-=======
   "inlineContextExpanded": true,
->>>>>>> origin/main
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": true,
@@ -85,11 +80,11 @@
   "indexSVG": false,
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
-  "releaseNotesPrompt": 0.999,
+  "releaseNotesPrompt": 0.8,
   "enableDefaultSpaces": true,
   "showSpacePinIcon": true,
   "experimental": false,
-  "systemName": "Electrical-Engineering",
+  "systemName": "Vault",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100,
@@ -116,7 +111,7 @@
     "emojiTriggerChar": ":",
     "flowState": false
   },
-  "firstLaunch": true,
+  "firstLaunch": false,
   "notesPreview": false,
   "editStickerInSidebar": true,
   "overrideNativeMenu": false,

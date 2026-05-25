@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f3e28b85a45b2e47",
+        "id": "71b2cbbcf0066245",
         "type": "tabs",
         "children": [
           {
-            "id": "01f6610675f7a5c3",
+            "id": "e27821c5fb307541",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "path": "Y1S2/Programming/Lab Notes"
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Lab Notes"
             }
           }
         ]
@@ -201,8 +199,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "593376fbced75cef",
+  "active": "fa871a98cb8da194",
   "lastOpenFiles": [
+    "Y1S1/Y1S1.md",
+    "Y1S2/Professional_Development/MATLAB/MATLAB.md",
+    "Y1S2/Electronics/Week 02.md",
+    "Y1S2/Electronics/Electronics.md",
     "conflict-files-obsidian-git.md",
     "Y1S2/Professional_Development/MATLAB/Week 08/exercise_roots/roots.m",
     "Y1S2/Professional_Development/MATLAB/Week 08/exercise_roots/getRoots.m",
@@ -214,9 +216,7 @@
     "Y1S2/Professional_Development/MATLAB/Week 08/functions.m",
     "Y1S2/Professional_Development/MATLAB/Week 08/exercise_roots",
     "Y1S2/Professional_Development/MATLAB/Week 08/exercise_polar",
-    "Y1S2/Electronics/Week 02.md",
     "Y1S2/Electronics/Week 01.md",
-    "Y1S2/Electronics/Electronics.md",
     "Images/Pasted image 20260516214128.png",
     "Images/Pasted image 20260516213919.png",
     "Images/Pasted image 20260516213910.png",
@@ -230,7 +230,6 @@
     "Untitled 1.md",
     "Untitled.md",
     "README.md",
-    "Y1S1/Y1S1.md",
     "Vault.md",
     "Images/Images.md",
     "Y1S2/Professional_Development/Contents.md",
