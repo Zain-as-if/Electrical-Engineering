@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "71b2cbbcf0066245",
+        "id": "76a83cdc214e5dea",
         "type": "tabs",
         "children": [
           {
-            "id": "e27821c5fb307541",
+            "id": "17272b7b9e6d065c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "image",
               "state": {
-                "path": "Y1S2/Programming/Lab Notes"
+                "file": "Images/Pasted image 20260526191025.png"
               },
-              "icon": "lucide-file",
-              "title": "Lab Notes"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260526191025"
             }
           }
         ]
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "fa871a98cb8da194",
+            "id": "ebd5d96e8df93541",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -96,7 +96,7 @@
       {
         "id": "4bb47af73353dbcf",
         "type": "tabs",
-        "dimension": 35.27298850574713,
+        "dimension": 40.08620689655172,
         "children": [
           {
             "id": "886b634368bbe8b4",
@@ -162,7 +162,7 @@
       {
         "id": "0e07b8b2f370deea",
         "type": "tabs",
-        "dimension": 64.72701149425288,
+        "dimension": 59.91379310344828,
         "children": [
           {
             "id": "7862a9674e40a719",
@@ -170,12 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Images/Pasted image 20260526191025.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Pasted image 20260526191025"
             }
           }
         ]
@@ -199,12 +200,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa871a98cb8da194",
+  "active": "ebd5d96e8df93541",
   "lastOpenFiles": [
+    "Y1S2/Electronics/Week 03 - Combinatorial Circuits.md",
+    "Excalidraw/Multiplexer.excalidraw.md",
+    "Images/Pasted image 20260526194955.png",
+    "Images/Pasted image 20260526194712.png",
+    "Y1S2/Electronics/Week 04 - Sequential Circuits.md",
+    "Y1S2/Electronics/Week 02 - Boolean Algebra.md",
+    "Images/Pasted image 20260526194114.png",
+    "Images/Pasted image 20260526193825.png",
+    "Images/Pasted image 20260526193816.png",
+    "Images/Pasted image 20260526192918.png",
+    "Images/Pasted image 20260526192550.png",
+    "Y1S2/Electronics/Week 01 - Logic Gates + Numbering.md",
+    "Images/Pasted image 20260526192033.png",
+    "Images/Pasted image 20260526191959.png",
+    "Images/Pasted image 20260526191922.png",
+    "Y1S2/Electronics/Week 05 - Counters Async & Sync.md",
+    "README.md",
+    "Excalidraw/Decoder.excalidraw.md",
+    "Untitled.md",
+    "Y1S2/Electronics/Week 10 - Operational Amplifiers.md",
+    "Y1S2/Electronics/Week 09 - BJT Transistor Bias Circuits.md",
+    "Y1S2/Electronics/Week 08 - BJT Transistors.md",
+    "Y1S2/Electronics/Week 06 - Analogue Electronics.md",
+    "Y1S2/Electronics/Week 07 - Rectifiers & Voltage Regulators.md",
+    "Y1S2/Electronics/Electronics.md",
     "Y1S1/Y1S1.md",
     "Y1S2/Professional_Development/MATLAB/MATLAB.md",
-    "Y1S2/Electronics/Week 02.md",
-    "Y1S2/Electronics/Electronics.md",
     "conflict-files-obsidian-git.md",
     "Y1S2/Professional_Development/MATLAB/Week 08/exercise_roots/roots.m",
     "Y1S2/Professional_Development/MATLAB/Week 08/exercise_roots/getRoots.m",
@@ -216,36 +240,12 @@
     "Y1S2/Professional_Development/MATLAB/Week 08/functions.m",
     "Y1S2/Professional_Development/MATLAB/Week 08/exercise_roots",
     "Y1S2/Professional_Development/MATLAB/Week 08/exercise_polar",
-    "Y1S2/Electronics/Week 01.md",
-    "Images/Pasted image 20260516214128.png",
-    "Images/Pasted image 20260516213919.png",
-    "Images/Pasted image 20260516213910.png",
-    "Images/Pasted image 20260516213502.png",
-    "Images/Pasted image 20260516213453.png",
-    "Images/Pasted image 20260516213443.png",
-    "Images/Pasted image 20260516213125.png",
-    "Images/Pasted image 20260516213117.png",
-    "Images/Pasted image 20260516212838.png",
-    "Images/Pasted image 20260516212736.png",
     "Untitled 1.md",
-    "Untitled.md",
-    "README.md",
     "Vault.md",
     "Images/Images.md",
     "Y1S2/Professional_Development/Contents.md",
     "Y1S1/Electrical Principles/Contents.md",
     "Y1S2/Contents.md",
-    "Y1S1/Mathematics/Contents.md",
-    "Y1S1/Mathematics/Week 10/Laplace Transforms.md",
-    "Y1S1/Mathematics/Week 9/Auxiliary Equation.md",
-    "Y1S1/Mathematics/Week 2/Logs & Exponentials.md",
-    "Y1S1/Mathematics/Week 7/Complex Numbers.md",
-    "Y1S1/Mathematics/Week 8/Matrices.md",
-    "Y1S1/Mathematics/Week 8/Inverse & System Of Equations.md",
-    "Y1S1/Mathematics/Week 8/Determinants.md",
-    "Y1S1/Mathematics/Week 6/Vectors.md",
-    "Y1S1/Mathematics/Week 6/Maclaurin & Taylors.md",
-    "Y1S1/Mathematics/Week 5/Numerical Approximations.md",
-    "Y1S1/Mathematics/Week 4/Min Max.md"
+    "Y1S1/Mathematics/Contents.md"
   ]
 }

@@ -86,3 +86,21 @@ Maxterms in example are A+B+C, A+B'+C', A'+B+C', A'+B'+C and A'+B'+C'
 Expression is in product of sums form
 Hence S = (A + B + C) . (A + B' + C') . (A' + B + C) . (A' + B' + C') . (A' + B + C') 
 Where '.' = Product & '.' = Sum
+
+# Practice Qs
+
+## 1
+![[Pasted image 20260526191025.png]]
+![[Pasted image 20260526191344.png]]
+## 2
+![[Pasted image 20260526191732.png]]
+![[Pasted image 20260526191553.png]]
+## 3
+![[Pasted image 20260526191739.png]]
+![[Pasted image 20260526191709.png]]
+## 4
+![[Pasted image 20260526191746.png]]
+![[Pasted image 20260526191914.png]]
+## 5 
+![[Pasted image 20260526191922.png]]
+![[Pasted image 20260526191959.png]]

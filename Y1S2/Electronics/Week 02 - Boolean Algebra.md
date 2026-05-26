@@ -96,3 +96,14 @@ We "don't care" which value is assumed by unused minterms as generally the input
 These can be used to simplify the map
 
 ![[Pasted image 20260516214128.png]]
+
+# Practice Qs 
+
+## 1 
+![[Pasted image 20260526192033.png]]
+![[Pasted image 20260526192550.png]]
+![[Pasted image 20260526192918.png]]
+![[Pasted image 20260526193816.png]]
+## 2
+![[Pasted image 20260526193825.png]]
+![[Pasted image 20260526194114.png]]
