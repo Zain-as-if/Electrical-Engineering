@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "84b125f2ce1c872a",
+            "id": "9519dbbb107ecf9d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -204,10 +204,11 @@
   },
   "active": "91bcc39bfeccbcdd",
   "lastOpenFiles": [
-    "Y1S2/Electronics/Week 07 - Rectifiers & Voltage Regulators.md",
+    "Y1S2/Electronics/Week 06 - Analogue Electronics.md",
     "Y1S2/Electronics/Week 05 - Counters Async & Sync.md",
-    "Y1S2/Electronics/Week 03 - Combinatorial Circuits.md",
     "Y1S2/Electronics/Week 04 - Sequential Circuits.md",
+    "Y1S2/Electronics/Week 07 - Rectifiers & Voltage Regulators.md",
+    "Y1S2/Electronics/Week 03 - Combinatorial Circuits.md",
     "Images/Pasted image 20260527120639.png",
     "Images/Pasted image 20260527134341.png",
     "Images/Pasted image 20260527132938.png",
@@ -219,7 +220,6 @@
     "Images/Pasted image 20260527130119.png",
     "Y1S2/Electronics/Week 02 - Boolean Algebra.md",
     "Images/Pasted image 20260527125338.png",
-    "Y1S2/Electronics/Week 06 - Analogue Electronics.md",
     "Y1S1/Electrical Principles/Week 02/Week 02.md",
     "Y1S1/Electrical Principles/Electrical Principles.md",
     "Y1S1/Mathematics/Mathematics.md",
