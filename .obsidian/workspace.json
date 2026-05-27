@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y1S2/Electronics/Week 05 - Counters Async & Sync.md",
+                "file": "Y1S2/Electronics/Week 01 - Logic Gates And Numbering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 05 - Counters Async & Sync"
+              "title": "Week 01 - Logic Gates And Numbering"
             }
           }
         ]
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y1S2/Electronics/Week 05 - Counters Async & Sync.md",
+                "file": "Y1S2/Electronics/Week 01 - Logic Gates And Numbering.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week 05 - Counters Async & Sync"
+              "title": "Outline of Week 01 - Logic Gates And Numbering"
             }
           }
         ]
@@ -202,13 +202,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91bcc39bfeccbcdd",
+  "active": "593376fbced75cef",
   "lastOpenFiles": [
-    "Y1S2/Electronics/Week 06 - Analogue Electronics.md",
-    "Y1S2/Electronics/Week 05 - Counters Async & Sync.md",
-    "Y1S2/Electronics/Week 04 - Sequential Circuits.md",
-    "Y1S2/Electronics/Week 07 - Rectifiers & Voltage Regulators.md",
+    "Y1S2/Electronics/Week 02 - Boolean Algebra.md",
     "Y1S2/Electronics/Week 03 - Combinatorial Circuits.md",
+    "Y1S2/Electronics/Week 04 - Sequential Circuits.md",
+    "Y1S2/Electronics/Week 05 - Counters Async And Sync.md",
+    "Y1S2/Electronics/Week 06 - Analogue Electronics.md",
+    "Y1S2/Electronics/Week 07 - Rectifiers And Voltage Regulators.md",
+    "Y1S2/Electronics/Week 10 - Operational Amplifiers.md",
+    "Y1S2/Electronics/Week 09 - BJT Transistor Bias Circuits.md",
     "Images/Pasted image 20260527120639.png",
     "Images/Pasted image 20260527134341.png",
     "Images/Pasted image 20260527132938.png",
@@ -218,16 +221,13 @@
     "Images/Pasted image 20260527130911.png",
     "Images/Pasted image 20260527130741.png",
     "Images/Pasted image 20260527130119.png",
-    "Y1S2/Electronics/Week 02 - Boolean Algebra.md",
     "Images/Pasted image 20260527125338.png",
     "Y1S1/Electrical Principles/Week 02/Week 02.md",
     "Y1S1/Electrical Principles/Electrical Principles.md",
     "Y1S1/Mathematics/Mathematics.md",
     "Y1S1/Mathematics/Week 09/Week 09.md",
     "Y1S2/Electronics/Week 08 - BJT Transistors.md",
-    "Y1S2/Electronics/Week 01 - Logic Gates + Numbering.md",
-    "Y1S2/Electronics/Week 10 - Operational Amplifiers.md",
-    "Y1S2/Electronics/Week 09 - BJT Transistor Bias Circuits.md",
+    "Y1S2/Electronics/Week 01 - Logic Gates And Numbering.md",
     "Excalidraw/Multiplexer.excalidraw.md",
     "README.md",
     "Excalidraw/Decoder.excalidraw.md",
