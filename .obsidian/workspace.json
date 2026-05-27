@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "570bafaecaab8774",
+        "id": "9969ad093b1bedb2",
         "type": "tabs",
         "children": [
           {
-            "id": "8c91884717d0f582",
+            "id": "be0538914a83b8a5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20260527170409.png"
+                "file": "Y1S2/Electronics/Week 08 - BJT Transistors.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260527170409"
+              "icon": "lucide-file",
+              "title": "Week 08 - BJT Transistors"
             }
           }
         ]
@@ -170,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20260527170409.png",
+                "file": "Y1S2/Electronics/Week 08 - BJT Transistors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260527170409"
+              "title": "Outline of Week 08 - BJT Transistors"
             }
           }
         ]
@@ -200,8 +202,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ee67cf032d4404d",
+  "active": "be0538914a83b8a5",
   "lastOpenFiles": [
+    "Images/Pasted image 20260527170409.png",
     "Y1S2/Electronics/Week 08 - BJT Transistors.md",
     "Y1S2/Electronics/Week 07 - Rectifiers And Voltage Regulators.md",
     "Images/Pasted image 20260527181304.png",
