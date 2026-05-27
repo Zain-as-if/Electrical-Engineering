@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "76a83cdc214e5dea",
+        "id": "74b2851cee8ed7b0",
         "type": "tabs",
         "children": [
           {
-            "id": "17272b7b9e6d065c",
+            "id": "91bcc39bfeccbcdd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20260526191025.png"
+                "file": "Y1S2/Electronics/Week 05 - Counters Async & Sync.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260526191025"
+              "icon": "lucide-file",
+              "title": "Week 05 - Counters Async & Sync"
             }
           }
         ]
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "ebd5d96e8df93541",
+            "id": "84b125f2ce1c872a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -170,20 +172,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20260526191025.png",
+                "file": "Y1S2/Electronics/Week 05 - Counters Async & Sync.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260526191025"
+              "title": "Outline of Week 05 - Counters Async & Sync"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,32 +202,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ebd5d96e8df93541",
+  "active": "91bcc39bfeccbcdd",
   "lastOpenFiles": [
-    "Y1S2/Electronics/Week 03 - Combinatorial Circuits.md",
-    "Excalidraw/Multiplexer.excalidraw.md",
-    "Images/Pasted image 20260526194955.png",
-    "Images/Pasted image 20260526194712.png",
-    "Y1S2/Electronics/Week 04 - Sequential Circuits.md",
-    "Y1S2/Electronics/Week 02 - Boolean Algebra.md",
-    "Images/Pasted image 20260526194114.png",
-    "Images/Pasted image 20260526193825.png",
-    "Images/Pasted image 20260526193816.png",
-    "Images/Pasted image 20260526192918.png",
-    "Images/Pasted image 20260526192550.png",
-    "Y1S2/Electronics/Week 01 - Logic Gates + Numbering.md",
-    "Images/Pasted image 20260526192033.png",
-    "Images/Pasted image 20260526191959.png",
-    "Images/Pasted image 20260526191922.png",
+    "Y1S2/Electronics/Week 07 - Rectifiers & Voltage Regulators.md",
     "Y1S2/Electronics/Week 05 - Counters Async & Sync.md",
+    "Y1S2/Electronics/Week 03 - Combinatorial Circuits.md",
+    "Y1S2/Electronics/Week 04 - Sequential Circuits.md",
+    "Images/Pasted image 20260527120639.png",
+    "Images/Pasted image 20260527134341.png",
+    "Images/Pasted image 20260527132938.png",
+    "Images/Pasted image 20260527131747.png",
+    "Images/Pasted image 20260527131106.png",
+    "Images/Pasted image 20260527131020.png",
+    "Images/Pasted image 20260527130911.png",
+    "Images/Pasted image 20260527130741.png",
+    "Images/Pasted image 20260527130119.png",
+    "Y1S2/Electronics/Week 02 - Boolean Algebra.md",
+    "Images/Pasted image 20260527125338.png",
+    "Y1S2/Electronics/Week 06 - Analogue Electronics.md",
+    "Y1S1/Electrical Principles/Week 02/Week 02.md",
+    "Y1S1/Electrical Principles/Electrical Principles.md",
+    "Y1S1/Mathematics/Mathematics.md",
+    "Y1S1/Mathematics/Week 09/Week 09.md",
+    "Y1S2/Electronics/Week 08 - BJT Transistors.md",
+    "Y1S2/Electronics/Week 01 - Logic Gates + Numbering.md",
+    "Y1S2/Electronics/Week 10 - Operational Amplifiers.md",
+    "Y1S2/Electronics/Week 09 - BJT Transistor Bias Circuits.md",
+    "Excalidraw/Multiplexer.excalidraw.md",
     "README.md",
     "Excalidraw/Decoder.excalidraw.md",
     "Untitled.md",
-    "Y1S2/Electronics/Week 10 - Operational Amplifiers.md",
-    "Y1S2/Electronics/Week 09 - BJT Transistor Bias Circuits.md",
-    "Y1S2/Electronics/Week 08 - BJT Transistors.md",
-    "Y1S2/Electronics/Week 06 - Analogue Electronics.md",
-    "Y1S2/Electronics/Week 07 - Rectifiers & Voltage Regulators.md",
     "Y1S2/Electronics/Electronics.md",
     "Y1S1/Y1S1.md",
     "Y1S2/Professional_Development/MATLAB/MATLAB.md",
@@ -242,10 +248,6 @@
     "Y1S2/Professional_Development/MATLAB/Week 08/exercise_polar",
     "Untitled 1.md",
     "Vault.md",
-    "Images/Images.md",
-    "Y1S2/Professional_Development/Contents.md",
-    "Y1S1/Electrical Principles/Contents.md",
-    "Y1S2/Contents.md",
-    "Y1S1/Mathematics/Contents.md"
+    "Images/Images.md"
   ]
 }
