@@ -11,12 +11,12 @@
             "id": "cbfc7ff023053e39",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "pdf",
               "state": {
-                "path": "Y1S2"
+                "file": "file:/home/zain/Downloads/SAC-Lecture-1a-Full - Tagged.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Y1S2"
+              "icon": "lucide-file-text",
+              "title": "SAC-Lecture-1a-Full - Tagged"
             }
           }
         ]
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "fee64c39752795d7",
+            "id": "98f3e89982fa0ee9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -173,6 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "file:/home/zain/Downloads/SAC-Lecture-1a-Full - Tagged.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
